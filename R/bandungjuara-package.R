@@ -2,7 +2,7 @@
 #'
 #' Antarmuka untuk Open Data Bandung
 #'
-#' See the README on
+#' Silakan baca dokumentasi di
 #' \href{https://github.com/aswansyahputra/bandungjuara#readme}{GitHub}
 #'
 #' @docType package
