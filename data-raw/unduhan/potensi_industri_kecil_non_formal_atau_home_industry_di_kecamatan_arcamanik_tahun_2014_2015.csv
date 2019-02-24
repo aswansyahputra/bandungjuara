@@ -1,0 +1,70 @@
+no,nama_perusahaan,alamat_perusahaan,kelurahan,jenis_industri,jenis_komoditi,jumlah_tenaga_kerja,kapasitas_produksi_tahun,daerah_pemasaran
+1,Meksa 59,Jl. Mekarsari Rt.03 Rw.08,Sukamiskin,Bilboard,T.Shirt,2 Orang,1986,Bandung
+2,Ayunda. W.M,Jl. Mekarsari Rt.03 Rw.08,Sukamiskin,Rias.P,Kebaya,1 Orang,2012,Bandung
+3,Sugih Lestari,Jl. Mekarsari Rt.01 Rw.08,Sukamiskin,Handy Craf,H.Industri,4 Orang,1992,Bandung
+4,Chocolate,Jl. Mekarsari Rt.02 Rw.08,Sukamiskin,Garment,Rajutan,2 Orang,2011,Bandung
+5,Bumbu racik,Jl. Mekarsari Rt.02 Rw.08,Sukamiskin,Kuliner,Bumbu,1 Orang,2007,Bandung
+6,Penjahit A,Jl. Mekarsari Rt.02 Rw.08,Sukamiskin,P. Jasa,NA,1 Orang,2007,Bandung
+7,Amelia C,Jl. Pasantren Rt.01 Rw.04,Sukamiskin,Konpeksi,K.Training,10 Orang,2009,Bandung
+8,Kuliner,Jl. Pasantren Rt.04 Rw.11,Sukamiskin,Makanan,K.Basah,2 Orang,2012,Bandung
+9,Bordir KIKA,Jl. Pasantren Rt.01 Rw.04,Sukamiskin,P. Jadi,Baju,35 Orang,2000,Bandung
+10,Segar,Kmp. Permata Rt.08 Rw.08,Sukamiskin,Minuman,M.Yoghurt,11 Orang,2004,Bandung
+11,Kue Muthari,RT 04 RW 16,Sukamiskin,Saroja,Kue,1 Orang,2012,Bandung
+12,Kue,Gg Silih Asih Rt 07 Rw 08,Sukamiskin,Kue Lapis,Kue Basah,1 Orang,2012,Bandung
+13,Lilin,RT 01 Rw 02,Sukamiskin,Lilin,Lilin,1 Orang,2012,Bandung
+14,Arc Florence,Jl. Futsal I No. C 20,Sukamiskin,Anggrek,Anggrek,2 Orang,2011,Bandung
+15,Buryat,Jl. Mekarjaya Rt. 03 Rw. 05,Sukamiskin,Kue Basah,Kue Basah,2 Orang,2011,Bandung
+16,Meubel,Jl. Mekarjaya Rt. 01 Rw. 05,Sukamiskin,Meubel,Kayu,3 Orang,1993,Bandung
+17,-,Jl. Ps. Sindanglaya Rw.01,Cisaranten Bina Harapan,Comring/ Mustopa,Makanan,1 Orang,-,Bandung Timur
+18,-,Jl. Bojong Awi Kaler Rw 03,Cisaranten Bina Harapan,Burayot/Cireng,Makanan,1 Orang,-,Bandung Timur
+19,-,Jl. Cicukang Rt. 04 Rw. 06,Cisaranten Bina Harapan,"Sepatu,anak""/Dewasa",NA,2 Orang,-,Bandung Timur
+20,-,Jl. Golf dalam Rt. 01 Rw. 11,Cisaranten Bina Harapan,Coklat Hias,Makanan,1 Orang,-,Bandung Timur
+21,-,Jl. Golf Selatan Rw 10,Cisaranten Bina Harapan,Dawet Ireng,Minuman,1 Orang,-,Bandung Timur
+22,-,Jl. Golf Selatan Rw 10,Cisaranten Bina Harapan,Roll Tepung Ganyong,Makanan,1 Orang,-,Bandung Timur
+23,-,Jl. Cisaranten Kulon Rw 02,Cisaranten Kulon,Gitar,Kayu,3 Orang,50 Buah,Bandung
+24,-,Jl. Cisaranten Kulon Rw 06,Cisaranten Kulon,Mie Basah,Mie,10 Orang,1 Ton,Bandung
+25,-,Jl. Cisaranten Kulon Rw 05,Cisaranten Kulon,Krupuk,Krupuk,15 Orang,30 Ton,Bandung
+26,-,Jl. Cisaranten Kulon Rw 01,Cisaranten Kulon,Kue Tambang,Kue,3 Orang,100 Kg,Bandung
+27,-,Jl. Berlian Rw 01,Cisaranten Kulon,Tas Imitasi,Tas,3 Orang,2000 Pasang,Bandung
+28,-,Jl. Berlian Rw 01,Cisaranten Kulon,Tas Imitasi,Tas,3 Orang,600 Pasang,Bandung
+29,-,Jl. Sumbersari Rw 08,Cisaranten Kulon,Sablon,Baju,3 Orang,150 Buah,Bandung
+30,-,Jl. Cisaranten Kulon Rw 02,Cisaranten Kulon,Gitar,Kayu,8 Orang,20 Buah,Bandung
+31,-,Jl. Sumbersari Rw 08,Cisaranten Kulon,Bacang,Beras,1 Orang,2500 Karung,Bandung
+32,-,Jl. Pasopati Rw 11,Cisaranten Kulon,Kue Manis,Terigu,3 Orang,2000 Bungkus,Bandung
+33,-,Jl. Sumbersari Rw 08,Cisaranten Kulon,Budidaya Jangkrik,-,4  Orang,5000 Ekor,Bandung
+34,-,Jl. Purbamanik Rw 09,Cisaranten Kulon,Hand Modes,-,5 Orang,30 Pasang,Bandung
+35,-,Jl. Purbamanik Rw 09,Cisaranten Kulon,Abon Kentang Bawang,Abon,4 Orang,5000 Bungkus,Bandung
+36,-,Jl. Guruminda Rw 09,Cisaranten Kulon,Sablon,Baju,3 Orang,150 Buah,Bandung
+37,Takey,Rt 05 Rw 03,Cisaranten Endah,Makanan Tahu,Tahu,3 Orang,100 Kg,Arcamanik
+38,Pembuatan Sepatu,Rt 03 Rw 03,Cisaranten Endah,Sepatu,Sepatu,1 Orang,100 Pasang,Lokal
+39,Konveksi,Rt 03 Rw 03,Cisaranten Endah,Pakaian,Konveksi,20 Orang,1000 Bal,Lokal
+40,Catering,Rt 03 Rw 04,Cisaranten Endah,Makanan,Catering,3 Orang,-,Arcamanik
+41,Telur Asin,Rt 01 Rw 06,Cisaranten Endah,Telur Asin,Telur Asin,2 Orang,4000 Telur,Cisen
+42,Kue Basah,Rt 05 Rw 06,Cisaranten Endah,Kue Basah,Kue Basah,12 Orang,-,Pasar Caringin
+43,Mekar Sawargi,Rt 05 Rw 06,Cisaranten Endah,Roti,Roti,20 Orang,-,Lokal
+44,Sepatu,Rt 03 Rw 06,Cisaranten Endah,Sepatu,Sepatu,4 Orang,250 Pasang,Cibaduyut
+45,Sepatu,Rt 03 Rw 06,Cisaranten Endah,Sepatu,Sepatu,3 Orang,250 Pasang,Cibaduyut
+46,Makanan Ringan,Rt 02 Rw 09,Cisaranten Endah,Makanan Ringan,Kue Basah,4 Orang,-,Cisen
+47,Gipsun,Rt 02 Rw 09,Cisaranten Endah,Gipsun,Gipsun,4 Orang,50 Btg/Hari,Bandung
+48,Wayang Mini,Rt 05 Rw 09,Cisaranten Endah,Wayang Mini,Wayang Mini,3 Orang,-,Bandung
+49,Toko Kue Yeti,Rt 03 Rw 09,Cisaranten Endah,Kue Kering,Kue,3 Orang,50 Toples,Cisen
+50,Nasi Kuning,Rt 02 Rw 09,Cisaranten Endah,Nasi Kuning,Nasi Kuning,1 Orang,Sesuai Pesanan,Cisen
+51,Penjahit Nizam,Rt 03 Rw 09,Cisaranten Endah,Pakaian Jadi,Pakaian,8 Orang,Sesuai Pesanan,Bandung
+52,Bolu Kering,Rt 01 Rw 09,Cisaranten Endah,Kue,Kue,3 Orang,10 Toples,Cisen
+53,Abadi Cipta,Rt 05 Rw 11,Cisaranten Endah,Stempel,Stempel,2 Orang,25 Biji/Hari,Bandung
+54,Pembuatan Sepatu,Rt 03 Rw 11,Cisaranten Endah,Sepatu,Sepatu,1 Orang,50 Pasang,Bandung
+55,Aneka Kue,Rt 03 Rw 11,Cisaranten Endah,Kue Basah,Kue Basah,1 Orang,-,Bandung
+56,Pratama Mandiri GIP,Rt 02 Rw 11,Cisaranten Endah,Propil Gipsun,Propil Gipsun,4 Orang,100 Btg,Bandung
+57,Sadara Art,Rt 01 Rw 11,Cisaranten Endah,Kerajinan Tangan,Bahan Kayu,2 Orang,72 Wayang/Thn,Bandung
+58,Dhea,Rt 03 Rw 11,Cisaranten Endah,P. Rajin Sendal,Kulit,2 Orang,5 Pasang/Hari,Bandung
+59,Asep Sol,Rt 03 Rw 11,Cisaranten Endah,Sol Sepatu,Kulit,10 Orang,5000 Pasang,Jakarta
+60,Roti Karlina,Rt 01 Rw 11,Cisaranten Endah,Roti,Terigu,4 Orang,5000/ Hari,Bandung
+61,Sangkar Burung,Rt 03 Rw 11,Cisaranten Endah,Sangkar Burung,Kayu,2 Orang,50 Buah Sangkar,Bandung
+62,Accessories,Rt 03 Rw 11,Cisaranten Endah,Handle Lemari,Handle,6 Orang,60 Pasang,Jkt-Bandung
+63,Rempeyek,Rt 03 Rw 11,Cisaranten Endah,Rempeyek,Rempeyek,3 Orang,100 Bks/Hari,Antapani
+64,Kripik Singkong,Rt 03 Rw 11,Cisaranten Endah,Kripik Singkong,Kripik,3 Orang,150 Bks/ Hari,Arcamanik
+65,Konveksi Rajutan,Rt 04 Rw 11,Cisaranten Endah,Rajutan,Rajutan,9 Orang,200 Losin,Jkt-Surabaya
+66,Bi None,Rt 03 Rw 11,Cisaranten Endah,Rajutan,Pakaian rjt,6 Orang,100 Losin/Bulan,Jakarta
+67,Gipsun,Rt 01 Rw 11,Cisaranten Endah,Gipsun,Gipsun,10 Orang,100 Batang/Hari,Lokal
+68,Muchtar Leging,Rt 04 Rw 11,Cisaranten Endah,Leging,Leging,3 Orang,250 Kodi,Jakarta
+69,Pabrik Tahu,Rt 06 Rw 11,Cisaranten Endah,Tahu,Tahu,8 Orang,100000 bh/Hari,Bandung

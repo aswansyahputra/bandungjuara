@@ -1,0 +1,48 @@
+no,nama_perusahaan,alamat_perusahaan,besaran_nilai_perkiraan_dalam_rp,uraian,program_prioritas,sub_program_prioritas,penerima,lokasi_penerima,kecamatan,kelurahan,tahun_pelaksanaan,keterangan
+1,Galery Ciumbuleuit,Jl. Ciumbuleuit 42 A,7000000,Bebersih Sungai Cikalintu,Lingkungan Hidup,-,Warga,RW 02,Cidadap,Ciumbuleuit,-,Hotel
+2,Padma Hotel,Jl. Ranca Bentang 56,9000000,Bebersih Sungai Cipaganti,Lingkungan Hidup,Kolaborasi Dengan Satgas Citarum Harum,Warga,RW 05,Cidadap,Ciumbuleuit,-,Hotel
+3,Padma Hotel,Jl. Ranca Bentang 57,65000000,Pengadaan Air Bersih,Lingkungan Hidup,Pengadaan Saluran Air Bersih,Warga,RW 04,Cidadap,Ciumbuleuit,-,Hotel
+4,PT Angkasa Pura,Jl. Pajajaran,30000000,Untuk Pembuatan Sumur Bor Air Bersih,Lingkungan Hidup,Pengadaan Air Bersih Warga,RW 001,Jl. Karya RT 02 RW 01,Cicendo,Sukaraja,-,BUMN
+5,PT Angkasa Pura,Jl. Pajajaran,30000000,Untuk Pembuatan Sumur Bor Air Bersih,Lingkungan Hidup,Pengadaan Air Bersih Warga,RW 005,Masjid An-Nur RT 02 RW 05,Cicendo,Sukaraja,-,BUMN
+6,C59,Jl. Cigadung Raya Timur No 107,2000000,Penyediaan Pakaian Kaos Sejumlah 50 Terkiat Program Citarum Harum,Lingkungan Hidup,Infrastruktur,"Pasgober, Pastaman Se Kecamatan Cibeunying Kaler",-,Cibeunying Kaler,"Cigadung, Neglasari",2018,Perdagangan Umum
+7,PT Atrya,Jl. Pahlawan No 95,1000000,Penyediaan Pucuk Merah,Lingkungan Hidup,Infrastruktur,-,-,Cibeunying Kaler,Sukaluyu,2018,-
+8,Perum Green Land,Jl. Cigadung Raya Tengah No 20,7000000,Penyedian 70 Payung,Lingkungan Hidup,Infrastruktur,-,-,Cibeunying Kaler,Cipadung KULON,-,Kontruksi
+9,Katering Yufeto,Jl. Kasungka No 3 Rancakendal,2000000,Penyediaan Nasi Dus Program Cidurian Bersih,Lingkungan Hidup,Infrastruktur,-,-,Cibeunying Kaler,Neglasari,2018,Perdagangan Umum
+10,PT Rajawali Hiyoto,Jl. Industri 2 No 8 Cimahi Selatan,4000000,Pengembangan Kampung Kb Di Kelurahan Karasak Dengan Membuat Mural Tentang Pejuang Dan Tokoh Lainnya Di Dinding Sepanjang 500 M,Lingkungan Hidup,Keindahan,Kelurahan Karasak,-,Astanaanyar,Karasak,2018,-
+11,Persatuan Radio Swasta Nasional Indonesia (Prsni),Jl. Kurdi 76,60000000,Jetpam (5 Unit),Lingkungan Hidup,Pengadaan Barang,RW 02,-,Bojongloa Kaler,-,-,-
+12,Mikata Ac,Jl. Nawawi No.1,5000000,"Memberi Warga Sekitar Listrik, Dan Air. Membantu Sumbangan Untuk Kebersihan Lingkungan",Lingkungan Hidup,Infastruktur,Warga Sekitar,RW 10,Babakan Ciparay,Sukahaji,2018,Perdagangan Umum
+13,CV Pagarsih,Jl. Babakan Ciparay No.88,3500000,"Sembako, Perbaikan Saluran Air",Lingkungan Hidup,"Pengadaan Barang, Infastruktur, Bakti Sosial",Warga Sekitar,RW 02,Babakan Ciparay,Sukahaji,2018,-
+14,Inti Glass,Jl. Jendral Sudirman No. 591,3500000,"Memberi Warga Sekitar Listrik, Dan Air. Membantu Sumbangan Untuk Kebersihan Lingkungan",Lingkungan Hidup,Infastruktur,Warga Sekitar,RW 09,Babakan Ciparay,Sukahaji,2018,Perdagangan Umum
+15,PT Portelindo,Jakarta,30000000,Pembuatan Grevel,Lingkungan Hidup,-,-,Jl.Murni RW 03,Regol,Pasirluyu,2017,Perdagangan Umum
+16,PT Portelindo,Jakarta,10000000,Lampu Penerang Jalan,Lingkungan Hidup,-,-,RW 03,Regol,Pasirluyu,2017,Perdagangan Umum
+17,Gedung Keuskupan,Jl. Moch Ramdan 18,20000000,Submmer Sible,Lingkungan Hidup,-,-,RT 05,Regol,Ciateul,2018,Perdagangan Umum
+18,Gedung Keuskupan,Jl. Moch Ramdan 19,15000000,Perbaikan Gg Sempit,Lingkungan Hidup,-,-,Perbatasan RT 04 dan RT 05 RW 01,Regol,Ciateul,2018,Perdagangan Umum
+19,PT Len,Jl. Soekarno Hatta No.442,15000000,Pembuatan TPS,Lingkungan Hidup,Lingkungan,RW 08,Jl.Mengger Girang,Regol,Pasirluyu,2018,BUMN
+20,PT Djarum,Jl. Soekarno Hatta,60000000,Lahan Pembuatan TPS,Lingkungan Hidup,Lingkungan,RW 08,Jl.Mengger Girang,Regol,Pasirluyu,-,Perdagangan Umum
+21,Sambel Hejo,Jl. Burangrang,1000000,Kegiatan Lingkungan,Lingkungan Hidup,-,RW 07,Jl. Burangrang,Lengkong,Malabar,-,Restoran
+22,The Harvest,Jl. Burangrang,1000000,Tanaman Dan Lampu,Lingkungan Hidup,Lingkungan,RW 07,Jl. Burangrang,Lengkong,Malabar,-,Perdagangan Umum
+23,PT Tugu Kresna,Jl. Gatsu 30 A,1000000,Bantuan Sosial,Lingkungan Hidup,Penghijauan,Kelurahan,Kelurahan,Lengkong,Malabar,-,-
+24,PT Centra Air Minum - Alexsa,Jl. Guntur Sariwetan No.33,35000000,Pembuatan Taman Lingkungan,Lingkungan Hidup,Warga RW 04,Pemkot,RW 04,Lengkong,Turangga,-,Perdagangan Umum
+25,PT Kopeland,RW 01,1000000,Bantaran Kali,Lingkungan Hidup,Taman,Taman RW 01,-,Kiaracondong,Babakan Sari,2017,Jasa Lainnya
+26,SMK Kencana,RW 01,1000000,Konsumsi Pem Taman,Lingkungan Hidup,-,-,-,Kiaracondong,Babakan Sari,2017,Jasa Lainnya
+27,Bk H Umuh Muhtar,RW 02,7000000,Pembuatan Gapura,Lingkungan Hidup,Gapura Gg Desa,Gg Desa RW 3,-,Kiaracondong,Babakan Sari,2017,Jasa Lainnya
+28,PT KAI,RW 07,11500000,Pembuatan Gapura,Lingkungan Hidup,Taman Dan Gapura,RW 07,-,Kiaracondong,Babakan Sari,2017,BUMN
+29,PPMBS,-,4000000,Pembuatan Taman,Lingkungan Hidup,-,Taman RW 03,-,Kiaracondong,Babakan Sari,2017,Jasa Lainnya
+30,Koplen,RW 01,1000000,Bantaran Kali,Lingkungan Hidup,Taman,Taman RW 01,-,Kiaracondong,Babakan Sari,2017,Jasa Lainnya
+31,Blazbluz,RT 01 RW 05,1300000,Jl Ibrahim Aji,Lingkungan Hidup,Cat Dan Spanduk,-,-,Kiaracondong,Babakan Sari,2018,Jasa Lainnya
+32,PT Daya Motor,RT 08/02,10000000,Pkt U.Khitanan,Lingkungan Hidup,Baksos,Warga,RW 02,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+33,CV Gunung Gede,RT 08/02,2500000,Handuk,Lingkungan Hidup,Baksos,Warga,RW 02,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+34,Maestro Listrik,RT 01/04,2000000,Paket U.Linmas,Lingkungan Hidup,Baksos,Warga,RW 04,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+35,Tulus Medika,RT 04/04,1000000,Pkt U.Posyandu,Lingkungan Hidup,Baksos,Warga,RW 04,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+36,Ipan Matrial,RT 02/05,2500000,Pkt Lebaran,Lingkungan Hidup,Baksos,Warga,RW 05,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+37,Showroom Ganjar,RT 04/06,6000000,Utk.Posyandu,Lingkungan Hidup,Baksos,Warga,RW 06,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+38,Ska,RT 02/11,1800000,Infrastruktur,Lingkungan Hidup,Baksos,Warga,RW 11,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+39,PT Merdeka Motor,RT 03/11,5000000,Infrastruktur,Lingkungan Hidup,Baksos,Warga,RW 11,Kiaracondong,Kebon Kangkung,2017-2018,Perdagangan Umum
+40,PLN,Jl. Soekarno Hatta,225000000,Aspal Jalan Di Jl.PLN,Lingkungan Hidup,Pembangunan Fisik Jalan,RW 05,RW 05,Regol,Cigelereng,2017,BUMN
+41,PLN,Jl. Soekarno Hatta,100000000,Pengerukan Satuan Gorong - Gorong,Lingkungan Hidup,-,RW 04,Jl.PLN,Regol,Cigelereng,2018,BUMN
+42,PLN,Jl. Asia Afrika,40000000,Motor Sampah,Lingkungan Hidup,Pengadaan Barang,RW 05,-,Bojongloa Kaler,-,-,BUMN
+43,PT Indah Karya,Jl. Golf RW 11,16000000,Seragam Petugas Gober Dan Linmas,Lingkungan hidup,Alat Kebersihan,Petugas Gober Dan Linmas,Kelurahan,Arcamanik,Cisaranten Bina Harapan,2017,Perdagangan Umum
+44,PT Nabati Indonesia,Jl. Raya Rancaekek Kab Bandung,5000000,Bantuan Pohon Buah Buahan Setinggi Kurang Lebih 1 M,Lingkungan Hidup,-,Ketua LPM Kecamatan Rancasari,-,Rancasari,Mekarjaya,-,Perdagangan Umum
+45,PT Dekatama Sentra,Jl. Mekar Mulya No.33,1500000,Insentif Diberikan Setiap Bulan,Lingkungan Hidup,Pemberian Insentif,Pengurus RW,-,Panyileukan,Cipadung Kulon,-,Perdagangan Umum
+46,Bank Jabar Banten,Jl. Kebon Jati,12000000,Beberes Bandung,Lingkungan Hidup,Bantuan Cat Kerb Dan Mamin,Warga,RW 05,Cidadap,Hegarmanah,-,Bank
+47,Bank Jabar Banten,Jl. Kebon Jati,12000000,Pemberian Bantuan Untuk Kegiatan Beberes Bandung,Lingkungan Hidup,-,-,-,Antapani,Malabar,2018,Bank

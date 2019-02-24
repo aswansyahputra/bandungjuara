@@ -1,0 +1,160 @@
+no,wilayah,kecamatan,nama_tps,lokasi_tps_jalan,sampah_yang_masuk_m3_hari,sampah_diangkut_ke_tpa_m3_hari,ritasi,peruntukkan,jadwal_pengangkutan,sumber_sampah_rw_kelurahan_kecamatan
+1,Bandung Barat,Andir,Babakan Cianjur,Babakan Cianjur,10,9,1,Umum/Masyarakat,-,Kel. Campaka 2 Rw - Sukaraja 1Rw - Pangkalan Auri
+2,Bandung Barat,Andir,Rumah Sakit Kebonjati,Rumah Sakit Kebonjati,6,4,1,Rumah Sakit Kebonjati,-,Rumah Sakit Kebonjati
+3,Bandung Barat,Andir,Pasar Andir,Pasar Andir,22.14,20,2,Pasar,Tiap Hari,Pasar Andir
+4,Bandung Barat,Andir,Ence Azis,Ence Azis,30,25,2,Umum/Masyarakat,-,Kel. Kebon Jeruk 9 Rw - Komersil Dan Sapuan Jalan
+5,Bandung Barat,Andir,Ciroyom,Pasar Ciroyom,70,60,3,Pasar Dan Umum/Masyarakat,Tiap Hari,Kel. Garuda Rw 5 - Kel. Maleber Rw 7 - Kel. Dungus Curiang Rw 7 - Kel. Ciroyom Rw 6
+6,Bandung Barat,Andir,Pasar Baru,Pasar Baru,20,15,1,Pasar Baru,-,Pasar Baru
+7,Bandung Barat,Andir,Hypersquare,Pasir Kaliki,12,10,1,Hypersquare,-,Pertokoan Dan Rumah Makan
+8,Bandung Barat,Andir,Waringin,Waringin,-,6,1,Umum/Masyarakat,-,-
+9,Bandung Timur,Antapani,Subang,Subang,30.92,27,2,Umum/Masyarakat,-,Kel. Antapani Tengah 8 Rw - Kel. Antapani Kulon 7 Rw - Kel. Cicaheum 1 Rw - Kel. Bbk. Surabaya 3 Rw - Kel. Jati Handap 1 Rw - Trida
+10,Bandung Timur,Antapani,Indramayu,Indramayu,31.36,25,2,Umum/Masyarakat,-,Kel. Antapani Tengah 8 Rw - Kel. Antapani Kidul 12 Rw - Kel. Bbk. Surabaya 1 Rw
+11,Bandung Timur,Antapani,Cibatu,Cibatu,19.28,15,1,Umum/Masyarakat,-,Kel. Antapani Tengah 9 Rw - Kel. Antapani Wetan 7 Rw - Kel. Arcamanik 1 Rw
+12,Bandung Timur,Antapani,Pratista,Pratista,31.71,25,2,Umum/Masyarakat,-,Kel. Bbk. Sari 4 Rw - Kel. Antapani Kidul 6 Rw - Kel. Cisaranten Endah 7 Rw - Kel. Jatisari 1 Rw
+13,Bandung Timur,Arcamanik,Pacuan Kuda,Pacuan Kuda,14.18,13,1,Umum/Masyarakat,-,Kel. Sukamiskin 8 Rw - Lembaga Pemasyarakatan (Lp) Sukamiskin - Tebangan Pohon
+14,Bandung Timur,Arcamanik,Komplek Arcamanik,Cisaranten RW 15,20,18.5,1,Umum/Masyarakat,-,Kel. Cisaranten Indah 2 Rw - Kel. Sukamiskin 3 Rw - Komplek Griya Pesona
+15,Bandung Timur,Arcamanik,Cisaranten Jati,Cisaranten Jati,23,21,1,Umum/Masyarakat,-,Kel. Sukamiskin 3 Rw - Kel. Cisaranten Kulon 4 Rw - Kel. Bina Harapan 1 Rw
+16,Bandung Timur,Arcamanik,Cingised,Cisaranten Kulon RW 04,4,2,1,Umum/Masyarakat,"3 X Seminggu (Senin, Kamis, Sabtu)",Kel. Cisaranten Endah 6 Rw
+17,Bandung Timur,Arcamanik,Cicukang,Cicukang,-,2,1,Umum/Masyarakat,-,-
+18,Bandung Timur,Arcamanik,Bojong Awi,Bojong Awi,-,2,1,Umum/Masyarakat,-,-
+19,Bandung Timur,Arcamanik,Pu Binamarga,Komplek Binamarga,3,1.5,1,Khusus Komplek PU,1 X Seminggu (Sabtu),Kel. Bina Marga 6
+20,Bandung Timur,Arcamanik,Gading Regensi,Komplek Gading Regensi,-,2.5,1,Umum/Masyarakat,1 X Seminggu (Rabu),Komplek Gading Regensi
+21,Bandung Barat,Astana Anyar,Pasar Astana Anyar,Astana Anyar,21,15,1,Pasar,Tiap Hari (Minggu 2 Rit),Kel. Nyengseret 1 Rw - Kel. Bbk. Asih 1 Rw - Pasar Astana Anyar - Jl. Panjunan
+22,Bandung Barat,Astana Anyar,Peta,Peta,70,60,3,Umum/Masyarakat,Tiap Hari,Kel. Bojongloa Kaler 10 Rw - Kel. Astana Anyar 6 Rw - Jl. Kopo - Jl. Peta
+23,Bandung Barat,Astana Anyar,Pagarsih,Pagarsih,40.5,37,2,Umum/Masyarakat,Tiap Hari Jam 11:00 Dan Jam 16:00,Kel. Karang Anyar 7 Rw - Kel. Cibadak 9 Rw - Kel. Jamika 6 Rw - Kel. Bbk. Tarogong 3 Rw - Jl. Anyar - Pasar Ulekan - Pasar Taman Senang - Amoera - Kertasari - Olimpia
+24,Bandung Barat,Astana Anyar,Nyengseret,Nyengseret,60,50,2,Umum/Masyarakat,Tiap Hari,Kel. Panjunan 5 Rw - Kel. Nyengseret 7 Rw - Kel. Sukaasih 2 Rw - Kel. Karanganyar 1 Rw - Kel. Bbk. Asih 3 Rw - Kel. Bbk. Regol 2 Rw - Cicendo - Toko Kue Kartika Sari - Rumah Makan Laksana - Rumah Makan Ampera - Sapuan Jl. Leuwi Panjang - Jl. Sudirman - Jl. Astana Anyar - Jl. Pelana - Jl. Ciateul - Jl. Cibadak - Jl. Pasirkoja - Jl. Kopo - Jl. Peta - Jl. Panjunan
+25,Bandung Barat,Babakan Ciparay,Porib,Porib,22,18,1,Umum/Masyarakat,Tiap Hari Jam 02:00 (Senin 2 Rit Jam 02:00 Dan Jam 12:00),Rumah Tinggal 11 Rw
+26,Bandung Barat,Babakan Ciparay,Satria Raya,Komplek Sata Raya,15,10,1,Umum/Masyarakat,"3 X Seminggu Jam 08:00 (Senin, Rabu, Sabtu)",Rumah Tinggal 4 Rw
+27,Bandung Barat,Babakan Ciparay,Kopo Elok,Kopo,-,1,1,Umum/Masyarakat,Tiap Hari,Kel. Cirangrang 4 Rw - Kel. Margasuka 4 Rw - Pertokoan Surya Mas - Miko Mall - Yogya - Bf
+28,Bandung Barat,Babakan Ciparay,Dian Permai,Dian Permai,5,3,1,Umum/Masyarakat,1 X Seminggu Jam 17:00 (Jumat),Kel. Babakan 1 Rw
+29,Bandung Barat,Babakan Ciparay,Sumbersari,Sumbersari,17,15,1,Umum/Masyarakat,Tiap Hari Jam 14:00,Rumah Tinggal 7 Rw
+30,Bandung Barat,Babakan Ciparay,Pikiran Rakyat,Sukarno Hatta,-,1.5,1,-,3 X Seminggu Jam 07:00,Pikiran Rakyat
+31,Bandung Barat,Babakan Ciparay,Pasir Koja,Terusan Pasir Koja,16,10,1,Umum/Masyarakat,Tiap Hari Jam 07:00,Kel. Babakan 7 Rw - Kel Sukahaji 2 Rw
+32,Bandung Selatan,Bandung Kidul,Batununggal Indah,Batununggal Indah,10,8.5,1,Umum/Masyarakat,Tiap Hari Jam 06:00,Kel. Menger 1 Rw - Kel. Batununggal 1 Rw
+33,Bandung Selatan,Bandung Kidul,Pasar Moden Batununggal,Komplek Batununggal,1.5,1,1,Pasar,1 X Seminggu Jam 12:00 (Minggu),Pasar Moden Batununggal
+34,Bandung Selatan,Bandung Kidul,Len Lipi,Sukarno Hatta,1.4,1,1,-,1 X Seminggu Jam 13:00 (Kamis),Kantor LEN
+35,Bandung Selatan,Bandung Kidul,Curug Ece,Buah Batu,12,10,1,Umum/Masyarakat,"3 X Seminggu Jam 06:00 (Senin, Rabu, Jumat)",Kel. Batununggal 6 Rw - Sapuan Jl. Ters. Buahbatu
+36,Bandung Selatan,Bandung Kidul,Adiyaksa,Adiyaksa,22,20,1,Umum/Masyarakat,-,Kel. Kujangsari 8 Rw - Kel. Menger 2 Rw
+37,Bandung Selatan,Bandung Kidul,Jakapurwa,Jakapurwa,6,4.5,1,Umum/Masyarakat,1 X Seminggu Jam 06:00 (Sabtu),Kel. Kujangsari Rw 5
+38,Bandung Selatan,Bandung Kidul,Poolsekelimus,Sekelimus Barat,18,10,2,Umum/Masyarakat,Tiap Hari Jam 05:00 Dan 11:00,Kel. Parakan 1 Rw - Kel. Sekelimus Barat 1 Rw - Kel. Sekelimus Utara 2 Rw - Jl. Sukarno Hatta - Jl. Kiaracondong - Jl. Warta - Jl. Pasar Warta - Jl. Saeuran
+39,Bandung Barat,Bandung Kulon,Pasar Cijerah,Cijerah,36,28,2,Pasar Dan Umum/Masyarakat,-,Kel. Cijerah 4 Rw - Kel. Gempol Asri 1 Rw - Kel. Cibuntu 2 Rw - Kel. Cigondewah Kaler 1 Rw - Pasar Cijerah
+40,Bandung Barat,Bandung Kulon,Taman Holis,Taman Holis,18,10,1,Umum/Masyarakat,Tiap Hari Jam 17:00,Kel. Cigondewah Rahayu 2 Rw - Kel. Cigondewah Kidul 1 Rw
+41,Bandung Barat,Bandung Kulon,Pasar Rahayu,Cigondewah,10,8,1,Pasar Dan Umum/Masyarakat,Tiap Hari Jam 02:00,Pasar Rahayu - Kel. Cigondewah Rahayu 1 Rw
+42,Bandung Barat,Bandung Kulon,Bumi Asri,Komplek Bumi Asri,10,8,1,Umum/Masyarakat,Tiap Hari Jam 17:00,Kel. Gempol Asri 2 Rw
+43,Bandung Barat,Bandung Kulon,Melong Asih,Komplek Melong Asih,5.5,1,1,Umum/Masyarakat,2 X Seminggu Jam 13:00 (Senin Dan Jumat),Komplek Melong Asih Rw 8
+44,Bandung Barat,Bandung Kulon,Masterindo,Sukarno Hatta,2,1,1,Kawasan Masterindo,1 X Seminggu Jam 17:00 (Minggu),PT. Masterindo
+45,Bandung Barat,Bandung Kulon,Suryani,Terusan Suryani,20,15,1,Umum/Masyarakat,Tiap Hari Jam 07:00,Kel. Warung Muncang 2 Rw - Kel.Cibuntu 2 Rw
+46,Bandung Barat,Bandung Kulon,Cigondewah RW 08,Cigondewah Kaler RW 08,2,0.5,1,Umum/Masyarakat,2 X Seminggu (Minggu Dan Kamis),Kel. Cigondewah Kaler Rw 8
+47,Bandung Utara,Bandung Wetan,Pasar Bunga,Wastukancana,0.86,1,1,Kawasan Pasar Bunga,1 X Seminggu (6 M³/Seminggu) Tiap Hari Jumat,Kawasan Pasar Bunga
+48,Bandung Utara,Bandung Wetan,Superindo,Djuanda,1.43,1,1,Kawasan Superindo,Tiap Hari Selasa,Kawasan Superindo
+49,Bandung Utara,Bandung Wetan,Ambon,Ambon,24,20,2,Umum/Masyarakat,"6 X Seminggu (Senin 2 Rit, Selasa-Jumat 3 Rit, Rental Senin-Sabtu 1 Rit))",Kel. Citarum 6 Rw - Tamansari 4 Rw - Bbk. Ciamis 3 Rw - Komersil Dan Non Komersil - Sapuan Jalan
+50,Bandung Utara,Bandung Wetan,Taman Cibeunying,Taman Cibeunying,32,30,4,Umum/Masyarakat,"6 X Seminggu (Senin-Kamis 4 Rit, Jumat 3 Rit, Sabtu 4 Rit)",Kel. Cihapit 8 Rw - Sukamaju 10 Rw - Sukarasa 7 Rw - Cihaurgeulis 5 Rw - Citarum 2 Rw - Kacapiring 1 Rw - Komersil
+51,Bandung Utara,Bandung Wetan,Cimandiri,Cimandiri,1.43,2,1,Lingkungan Kantor Pemprov,Tiap Hari Rabu,Lingkungan Kantor Pemprov
+52,Bandung Utara,Bandung Wetan,Balubur,Balubur Town Square (Baltos),-,6,1,Pasar,"3 X Seminggu (Rabu, Jumat, Minggu)",Pasar
+53,Bandung Utara,Bandung Wetan,Gasibu,Lapangan Gasibu,-,4,-,Kawasan Gasibu,Tiap Hari Minggu,Kawasan Gasibu
+54,Bandung Selatan,Batunuggal,Sukabumi,Sukabumi,16,12,1,Umum/Masyarakat,"3 X Seminggu Jam 13:00 (Selasa, Kamis Dan Sabtu)",Kel. Sukabumi Dalam 1 Rw
+55,Bandung Selatan,Batunuggal,Banten,Banten,15,10,1,Umum/Masyarakat,"3 X Seminggu Jam 13:00 (Selasa, Kamis Dan Sabtu)",Kel. Kebon Waru 4 Rw
+56,Bandung Selatan,Batunuggal,Pemkot,Cianjur,15,10,1,Kawasan Pemkot,Tiap Hari Jam 06:00,Sapuan Jl. Mangga - Jl. Jakarta - Jl. Sukabumi - Jl. Laswi - Pemkot - Rumah Makan Bumbu Desa
+57,Bandung Selatan,Batunuggal,Pt. Delami,Sukarno Hatta,6,4,1,PT. Delami,1 X Seminggu Jam 06:00,PT. Delami
+58,Bandung Selatan,Batunuggal,Lp Kb. Waru,Jakarta,1,1,1,-,1 X Seminggu Jam 13:00 (Sabtu),Lembaga Pemasyarakatan Kebon Waru (Lp Kb. Waru)
+59,Bandung Selatan,Batunuggal,Majalengka,Majalengka,2.5,1.5,1,Umum/Masyarakat,2 X Seminggu Jam 05:00 (Senin Dan Kamis),Kel. Kacapiring 1 Rw
+60,Bandung Selatan,Batunuggal,Cibangkong Rw 12,Cibangkong,3.5,2,1,Umum/Masyarakat,1 X Seminggu Jam 06:00 (Selasa),Kel. Cibangkong Rw 11
+61,Bandung Selatan,Batunuggal,Maleer Indah,Komplek Maleer Indah,3,2,1,Umum/Masyarakat,1 X Seminggu Jam 06:00 (Jumat),Komplek Maleer 2 Rw
+62,Bandung Selatan,Batunuggal,Maleer Rw 05,Jembatan Cibangkong,1,1,1,Umum/Masyarakat,1 X Seminggu Jam 06:00 (Minggu),Maleer Rw 05
+63,Bandung Selatan,Batunuggal,Maleer Rw 06,Jembatan IV,3,2,1,Umum/Masyarakat,1 X Seminggu Jam 06:00 (Kamis),Maleer Rw 06
+64,Bandung Selatan,Batunuggal,Gumuruh,Gumuruh,19,15.5,1,Umum/Masyarakat,-,Rumah Tinggal 6 Rw - Gumuruh Rw 1-12
+65,Bandung Selatan,Batunuggal,Binongjati,Binongjati,13,5,2,Umum/Masyarakat,Tiap Hari Jam 06:00 Dan 13:00,9 Rw
+66,Bandung Barat,Bojongloa Kaler,Pasar Sukahaji,Pasar Sukahaji,30,22,2,Pasar Dan Umum/Masyarakat,-,Kel. Sukahaji 4 Rw - Kel. Sukaasih 5 Rw - Kel. Bbk. Tarogong 2 Rw - Kel. Jamika 2 Rw - Pasar Sukahaji
+67,Bandung Barat,Bojongloa Kidul,Rumah Sakit Imanuel,Kopo,6,4,1,Rumah Sakit,Tiap Hari Jam 06:00,Rumah Sakit Imanuel
+68,Bandung Barat,Bojongloa Kidul,Pasar Leuwi Panjang,Leuwi Panjang,8,6.5,1,Pasar,Tiap Hari Jam 12:00,Pasar Leuwi Panjang
+69,Bandung Barat,Bojongloa Kidul,Terminal Leuwi Panjang,Terminal Leuwi Panjang,6,4,1,Terminal,1 X 2 Hari Jam 16:00,Terminal Leuwi Panjang
+70,Bandung Barat,Bojongloa Kidul,Cibaduyut,Cibaduyut,35,33,1,Umum/Masyarakat,Tiap Hari (Kecuali Kamis Dan Sabtu 2 Rit),Kel. Cibaduyut Kidul 6 Rw - Kel. Cibaduyut Pusat 8 Rw - Cibaduyut Wetan 4 Rw
+71,Bandung Barat,Bojongloa Kidul,Mekar Wangi,Karasak Lama,12,10.5,1,Umum/Masyarakat,Tiap Hari,Kel. Mekar Wangi 4 Rw
+72,Bandung Barat,Bojongloa Kidul,Karasak,Karasak,-,1.5,1,Umum/Masyarakat,Tiap Hari,-
+73,Bandung Timur,Buah Batu,Cipagalo,Cipagalo,13.6,10,1,Umum/Masyarakat,-,Kel. Cijaura 6 Rw - Kel. Margasari 8 Rw
+74,Bandung Timur,Buah Batu,Cijaura Girang,Komplek Cijaura,1.5,1,1,Umum/Masyarakat,-,Komplek Cijaura
+75,Bandung Timur,Buah Batu,Emerald Tower,Emerald Tower,-,1,1,Khusus Emerald Tower,-,Emerald Tower
+76,Bandung Utara,Cibeunying Kaler,Cihaurgeulis,Surapati (Pasar Cihaurgeulis),25,24,2,Pasar Dan Umum/Masyarakat,Tiap Hari,Sampah Pasar Cihaurgeulis - Kel. Cihaurgeulis 8 Rw - Pertokoan Jl. Surapati - Sapuan Jalan
+77,Bandung Utara,Cibeunying Kaler,Itenas,Ph. Mustopha (Itenas),6,5,1,Kawasan Itenas,1 X Seminggu (Minggu),Kawasan Itenas
+78,Bandung Utara,Cibeunying Kaler,Dago Golf (Jemputan),Dago Golf (Jemputan),10,10,1,-,Tiap Hari Jam 16:00,-
+79,Bandung Utara,Cibeunying Kidul,Cikutra,Cikutra,25,20,2,Umum/Masyarakat,Tiap Hari,Kel. Cikutra 10 Rw - Komersil - Pasar Cikutra
+80,Bandung Utara,Cibeunying Kidul,Suci,Ph. Mustopha,32,30,3,Umum/Masyarakat,"4 X Seminggu (Senin 3 Rit, Selasa 2 Rit, Rabu 3 Rit, Kamis 2 Rit)",Kel. Padasuka 7 Rw - Sukapada 15 - Cihaurgeulis 3 Rw - Neglasari 7 Rw - Komersil Dan Non Komersil
+81,Bandung Utara,Cibeunying Kidul,Pusat Persenjataan Infantri (PPI),Supratman (Komplek PPI),1.5,1,1,Umum/Masyarakat,1 X Seminggu (6 M³/Seminggu),Masyarakat Menghubungi Jika Sudah Penuh
+82,Bandung Timur,Cibiru,Cipadung Rw 08,Cipadung RW 08,1.5,1,1,Umum/Masyarakat,-,-
+83,Bandung Timur,Cibiru,Legit,AH. Nasution,14.91,12,1,Umum/Masyarakat,-,Kel. Cipadung 11 Rw - Kel. Pasir Biru 2 Rw
+84,Bandung Barat,Cicendo,Gunung Batubarat,Gunung Batubarat,29,25,1,Umum/Masyarakat,-,Kel. Sukaraja 4 Rw - Sapuan Jl. Cilember
+85,Bandung Barat,Cicendo,Gunung Batu Timur,Gunung Batu Timur,16,10,1,Umum/Masyarakat,-,Kel. Sukaraja 3 Rw - Pertokoan Pasteur - Borma Gunungbatu
+86,Bandung Barat,Cicendo,Pasar Pamoyanan,Pasar Pamoyanan,13,1,1,Pasar,-,Kel. Pamoyanan 4 Rw - Kel. Arjuna 1 Rw - Kel. Paskal 1 Rw
+87,Bandung Barat,Cicendo,Pabrik Kina,Pajajaran,2,1,1,Pabrik Kina,-,Pabrik Kina
+88,Bandung Barat,Cicendo,Cicendo,Cicendo,24,20,1,Umum/Masyarakat,-,Kel. Cicendo 6 Rw - Rumah Sakit Melinda - Rumah Sakit Mata Cicendo - Sapuan Jalan Dan Komersil
+89,Bandung Barat,Cicendo,IPTN,Komplek PT DI,10,8,1,Umum/Masyarakat,-,PT. DI
+90,Bandung Barat,Cicendo,Industri Dalam,Industri Dalam,12,10,1,Umum/Masyarakat,-,Kel. Arjuna 5 Rw - Sapuan Jalan - Sampah Pasar
+91,Bandung Utara,Cidadap,Punclut,Punclut Dekat SMPN 52,15,12,1,Umum/Masyarakat,6 X Seminggu (Senin - Sabtu),Kel. Ciumbuleuit 7 Rw - Kel. Hegarmanah 11 Rw - Kec. Coblong - Unpar - Apartement - Warga Langsung Buang
+92,Bandung Utara,Cidadap,Ledeng,Terminal Ledeng,3,3,1,Umum/Masyarakat,2 X Seminggu (Kamis Dan Minggu),Lingkungan Terminal Ledeng - Pejalan Kaki - Trida - Rw 4 Kel. Ledeng Dan Trida
+93,Bandung Utara,Cidadap,Cirateun,Cirateun,-,10,1,-,-,-
+94,Bandung Timur,Cinambo,Cinambo Indah,Cinambo,1.5,1,1,Umum/Masyarakat,"2 X Seminggu (Selasa, Jumat)",Pemukiman Rw 5 - Pakemitan - Sampah Liar
+95,Bandung Timur,Cinambo,Golf,Golf,1.5,1,1,Umum/Masyarakat,"2 X Seminggu (Kamis, Sabtu)",-
+96,Bandung Utara,Coblong,Sangkurian,Cisitu,2.5,2,1,Umum/Masyarakat,Tiap Hari Jumat,Kel. Dago 2 Rw (Rw 12 Dan Rw 13)
+97,Bandung Utara,Coblong,Boromeus,Djuanda (Rumah Sakit Boromeus),4,2,1,Kawasan Rumah Sakit Boromeus,2 X Seminggu (Selasa Dan Jumat),Kawasan Rumah Sakit Boromeus
+98,Bandung Utara,Coblong,Terminal Dago,Terminal Dago,4,2,1,Umum/Masyarakat,"3 X Seminggu (Senin, Kamis, Sabtu)",Kegiatan Terminal Dago Dan Pkl Serta Masyarakat Sekitar
+99,Bandung Utara,Coblong,Dipatiukur,Singaperbangsa,-,1,1,Umum/Masyarakat,"3 X Seminggu (Selasa, Kamis, Sabtu)",Kec. Coblong Kel. Lebak Gede 8 Rw - Citarum 1 Rw
+100,Bandung Utara,Coblong,Pasar Sadang Serang,Pasar Sadang Serang,13,12,1,Pasar Dan Umum/Masyarakat,Tiap Hari,Pasar Sadang Serang - Kel. Sadang Serang 2 Rw - Terminal
+101,Bandung Utara,Coblong,Komplek Sadang Serang,Sadang Tengah,35,30,2,Umum/Masyarakat,Tiap Hari,Kel. Sadang Serang 5 Rw - Sekeloa 8 Rw - Sukaluyu 4 Rw
+102,Bandung Utara,Coblong,Kebon Binatang,Tamansari,22,20,2,Umum/Masyarakat,-,Kel. Lebak Gede 8 Rw - Sekeloa 9 Rw - Dago 2 Rw - Lebak Siliwangi 6 Rw
+103,Bandung Utara,Coblong,Babakan Siliwangi,Babakan Siliwangi,-,10,1,-,"Tiap Hari (Rabu_Jumat_Minggu 2 Rit, Hari Lain 1 Rit, Pasar Simpang 1 Rit)",Pasar Simpang Dan Warga Buang Langsung
+104,Bandung Utara,Coblong,Puter,Puter,-,10,1,-,"4 X Seminggu (Senin_Selasa_Rabu 1 Rit, Sabtu 2 Rit)",Kel. Sadang Serang 13 RW - Pasar Puter
+105,Bandung Timur,Gedebage,Cempaka Arum,Cempaka Arum,1.42,1,1,Umum/Masyarakat,-,Komplek Cempaka Arum
+106,Bandung Timur,Gedebage,Rancabolang,Rancabolang,-,4,1,Umum/Masyarakat,-,Kel. Derwati 1 Rw
+107,Bandung Selatan,Kiaracondong,Kebaktian,Kebaktian,24,20,2,Umum/Masyarakat,Tiap Hari,Kel. Kebaktian Rw 10 - Jl. Bbk. Sari 3 Rw 15 - Kel. Mekarsari Rw 13 - Kel. Sari Indah Rw 12 - Kel. Bbk. Sumedang Rw 10 - 11 - Kel. Bbk. Sari Rw 5 - Jl. Soma Rw 1-3
+108,Bandung Selatan,Kiaracondong,Cidurian,Cidurian,13,1,1,Umum/Masyarakat,"3 X Seminggu (Senin, Kamis, Minggu) Jam 07:00",Kel. Sukapura Rw 8-10 - Kel. Kebon Kangkung Rw 9 Dan Rw 11
+109,Bandung Selatan,Kiaracondong,PSM,PSM,45,40,3,Umum/Masyarakat,-,Kel. Binong Rw 1 -3 -4 -11 - Kel. Kebon Jayanti 10 Rw - Kel. Maleer 4 Rw - Kel. Kebon Kangkung 10 Rw - Kel. Sukapura 9 Rw - Kel. Kebon Gedang 4 Rw - Kel. Bbk. Sari 4 Rw
+110,Bandung Selatan,Kiaracondong,Pasar Cicadas,Pasar Cicadas,43,40,2,Pasar Dan Umum/Masyarakat,Tiap Hari Jam 05:00 Dan 12:00,Rw 1 - 3 - 4 - 11 Rumah Tinggal - Rw Sapuan Jalan Kircon 1 -3 -7 - Kel. Batununggal - Took - Sapuan Jalan Cicadas
+111,Bandung Selatan,Kiaracondong,Pasar Kiaracondong,Kiaracondong,30,35,1,Pasar,Tiap Hari Jam 09:00 Dan 14:00,Kel. Kebon Gedang Rw 5 Dan Rw 8 - Kel. Kebon Jayanti Rw 1 - Pt. Kai - Sapuan Pasar Kiaracondong
+112,Bandung Selatan,Kiaracondong,Tarumatex,Ahmad Yani,1.5,0.5,1,Pasar Dan Umum/Masyarakat,1 X Seminggu (Sabtu Jam 16:00),Sampah Pt. Tarumatex
+113,Bandung Selatan,Kiaracondong,Cicaheum,Terminal Cicaheum (Belakang),40,35,2,Umum/Masyarakat,Tiap Hari Jam 05:00 Dan 10:00,Kel. Cicaheum Rw 1-5 - Kel. Padasuka Rw 1 - Kel. Pasir Layung Rw 5-7 Dan Rw 9 - Kel. Jatihandap Rw 4-7 - Terminal Cicaheum - Kantor Polisi Padasuka Dan Cicabe
+114,Bandung Selatan,Lengkong,Puteraco,Guntursari Wetan,14.75,10,1,Umum/Masyarakat,Tiap Hari Jam 07:00,Kel. Turangga 3 Rw - Kel. Gumuruh 2 Rw - Kel. Cigagra 1 Rw
+115,Bandung Selatan,Lengkong,Hasan Saputra,Hasan,13.5,10,1,Umum/Masyarakat,Tiap Hari Jam 07:00,Kel. Turangga 6 Rw
+116,Bandung Selatan,Lengkong,Pasar Palasari,Lodaya,30,25,2,Pasar,Tiap Hari (Minggu 1 Rit),Pasar Palasari - Maleber - Paledang - Burangrang - Turangga - Cigagra - Lingkar Selatan - Cibangkong - Ampera - Sapuan Jalan
+117,Bandung Selatan,Lengkong,Bintara,Sesko Abri RW 08,10,8.5,1,Umum/Masyarakat,2 X Seminggu Jam 06:00 (Rabu Dan Minggu,Komplek Sesko - Kel. Lingkar Selatan Rw 8
+118,Bandung Timur,Mandalajati,Cikadut,Cikadut/ Makam Cikadut,10,8,1,Umum/Masyarakat,"3 X Seminggu (Senin, Rabu, Jumat)",Kel. Jati Handap 6 Rw - Kel. Karang Pamulang 3 Rw - Kel. Sindangsari 3 Rw
+119,Bandung Timur,Mandalajati,Bandung Hill Side,Komplek Tamansari Bukit Bandung,6,4,1,Umum/Masyarakat,"3 X Seminggu (Senin, Rabu, Sabtu)",Kel. Sindanglaya 1 Rw
+120,Bandung Timur,Mandalajati,Lembaga Pemasyarakatan Sukamiskin,AH. Nasution,10,8,1,Umum/Masyarakat,-,Pemukiman Karang Pamulang 6 Rw - Kel. Sindanglaya 5 Rw - Kel. Simpangsari 1 Rw - Kel. Pasirimpun 3 Rw - Lembaga Pemasyarakatan/Lp Sukamiskin
+121,Bandung Timur,Mandalajati,Suka Asih,Komplek Suka Asih,3,2,1,Umum/Masyarakat,-,Komplek Suka Asih
+122,Bandung Timur,Panyileukan,Panyileukan,Komplek Panyileukan,13,10,1,Umum/Masyarakat,"4 X Seminggu (Selasa, Rabu, Kamis, Jumat)",Kel. Cipadung Kidul Rw 1-12 - Sapuan Jalan
+123,Bandung Timur,Panyileukan,Pangaritan,Pangaritan,9.87,8,1,Umum/Masyarakat,"2 X Seminggu (Selasa, Kamis)",Kel. Cipadung Wetan 4 Rw - Kel. Cipadung Kulon 6 Rw - Kel. Mekarmulya 1 Rw
+124,Bandung Timur,Panyileukan,Pasar Gedebage,Pasar Gedebage,45.86,40,2,Pasar Dan Umum/Masyarakat,-,Pasar Gedebage - Kel. Mekarmulya 4 Rw - Sapuan Jl. Sukarno Hatta - Sampah Liar
+125,Bandung Timur,Panyileukan,Polda Jabar,Sukarno Hatta,-,1.5,1,Khusus Polda Jabar,-,Khusus Polda Jabar
+126,Bandung Timur,Rancasari,Derwati,Derwati,15,10,1,Umum/Masyarakat,-,Kel. Buahbatu 3 Rw - Kel. Rancasari 4 Rw - Kel. Gedebage 4 Rw
+127,Bandung Timur,Rancasari,Pasar Ciwastra,Pasar Ciwastra,36.71,32,2,Pasar Dan Umum/Masyarakat,-,Kel. Cijaura 5 Rw - Kel. Margasari 11 Rw - Kel.Mekarjaya 9 Rw - Kel. Derwati 1 Rw - Kel. Cipamokolan 1 Rw - Pasar Ciwastra - Sampah Liar
+128,Bandung Timur,Rancasari,Bandung Inten,Komplek Bandung Inten,1.5,1,1,Umum/Masyarakat,-,Komplek Bandung Inten
+129,Bandung Timur,Rancasari,Rancasari Rw 10 - 11 - 13,Rancasari,1.5,1,1,Umum/Masyarakat,-,-
+130,Bandung Selatan,Regol,Tegallega/Kobana,M. Toha,40,32,2,Umum/Masyarakat,"Truk Bantuan Pu 2 Rit, Rental 4 Rit",Kel. Balonggede 4 Rw - Kel. Pangarang 1 Rw - Kel. Pungkur 6 Rw - Kel. Cigereleng 12 Rw - Kel. Pelindung Hewan 4 Rw - Kel. Karasak 2 Rw - Kel. Ciseureuh 2 Rw
+131,Bandung Selatan,Regol,Taman Tegallega,Taman Tegallega,12,10,1,Taman Tegallega,-,Taman Tegallega - Kantor Len
+132,Bandung Selatan,Regol,Pasar Karapitan,Pasar Karapitan,35,28,2,Umum/Masyarakat,Tiap Hari Jam 07:00 Dan 13:00,Kel. Ancol 4 Rw - Kel. Ciateul 2 Rw - Kel. Balonggede 2 Rw - Kel. Paledang 8Rw - Kel. Cikawao 4 Rw - Kel. Burangrang 4 Rw - Kantor Di Jl. Karapitan - Kantor Di Jl. Bkr - Kantor Di Jl. Pungkur - Pasar Karapitan
+133,Bandung Selatan,Regol,Pasirluyu,Pasirluyu,17,12,1,Umum/Masyarakat,Tiap Hari Jam 06:00 Dan 13:00 (Selasa 2 Rit),Kel. Pasir Salam 2 Rw - Kel. Pasirluyu 4 Rw - Kel. Suryalaya 1 Rw - Kel. Cigagra 1 Rw - Kel. Ancol 1 Rw - Kel. Ciseureuh 1 Rw
+134,Bandung Selatan,Regol,Pln Sukarno Hatta,Sukarno Hatta,1.4,1,1,Umum/Masyarakat,1 X Seminggu (Selasa Jam 13:00),Kantor Pln
+135,Bandung Selatan,Regol,Ciseureuh,M. Toha,13,10,1,Umum/Masyarakat,Tiap Hari Jam 07:00,Kel. Ciseureuh 4 Rw - Pln 1 Rw
+136,Bandung Utara,Sukajadi,Pasteur,Djunjunan,42,42,2,Umum/Masyarakat,Tiap Hari,Kel. Sukagalih 2 Rw - Sukabungah 8 Rw - Cipedes 4 Rw - Pajajaran 2 Rw - Komersil Dan Dari Buangan Liar
+137,Bandung Utara,Sukajadi,Sederhana,Sederhana,45,40,3,Pasar Dan Umum/Masyarakat,"Tiap Hari (Senin-Sabtu 3 Rit, Minggu 2 Rit)",Pasar Sederhana - Kel. Cipedes 1 Rw - Coblong 1 Rw - Cipaganti 1 Rw - Pasteur 7 Rw - Komersil - Sapuan Jalan
+138,Bandung Utara,Sukajadi,Cibogo,Cibogo,15,10,1,Umum/Masyarakat,6 X Seminggu (Senin - Sabtu),Kel. Sukawarna 3 Rw - Sukagalih 2 Rw - Husein 1Rw - Sampah Liar - Hotel Ladies
+139,Bandung Utara,Sukajadi,Rumah Sakit Hasan Sadikin (Rshs),Rumah Sakit,6,4,1,Kawasan RSHS,Tiap Hari,Kawasan RSHS
+140,Bandung Utara,Sukajadi,Paris Van Java (PVJ),Sukajadi,10,10,1,Kawasan PVJ,Tiap Hari Jam 04:00,Kawasan PVJ
+141,Bandung Utara,Sukajadi,Giant,Djunjunan,15,10,1,Kawasan Giant,1 X Seminggu (Rabu),Kawasan Giant
+142,Bandung Utara,Sukajadi,Maranatha,Surya Sumantri,6,3,1,Kawasan Maranatha,2 X Seminggu (Selasa Dan Kamis),Kawasan Maranatha
+143,Bandung Utara,Sukasari,Orari,Lemah Neundeut,35,30,3,Umum/Masyarakat,Tiap Hari Jam 02:00,Kel. Sarijadi 6 Rw - Sukawarna 3 Rw - Sukarasa 1 Rw - Upi - Dan Buang Langsung
+144,Bandung Utara,Sukasari,Sarimadu,Sarimadu Komplek Sarijadi,31,25,2,Umum/Masyarakat,Tiap Hari Jam 01:00,Kel. Gerlong 2 Rw - Sarijadi 4 Rw - Sukawarna 3 Rw - Komplek Prv - Daarul Tauhid - Pasar Cibogo - Dan Warga Buang Langsung
+145,Bandung Utara,Sukasari,KPAD,Kartika Komp. KPAD Gerlong,15.86,12,1,Umum/Masyarakat,Tiap Hari Jam 04:00,Kel. Gerlong 1 Rw
+146,Bandung Utara,Sukasari,Gerlong,Pasar Gerlong Jl. Gerlong Tengah,16.57,12,1,Pasar Dan Umum/Masyarakat,Tiap Hari Jam 24:00,Kel. Gerlong 2 Rw - Isola 1 Rw - Pasar Gerlong - Warga Buang Langsung
+147,Bandung Utara,Sukasari,Sersan Bajuri,Sersan Bajuri,2,2,1,Umum/Masyarakat,6 X Sebulan,Kel. Isola 2 Rw
+148,Bandung Utara,Sukasari,Pasar Sarijadi,Sariasih,4,2,1,Pasar,"3 X Seminggu (Senin, Rabu, Jumat)",Pasar Sarijadi - Kel. Sarijadi 2 Rw
+149,Bandung Utara,Sukasari,UPI,Komplek UPI,6,4.5,1,Kawasan UPI,"3 X Seminggu (Senin, Rabu, Jumat)",Kawasan UPI
+150,Bandung Utara,Sukasari,Karangtineung (Jemputan),Karangtineung (Jemputan),10,10,1,Umum/Masyarakat,6 X Seminggu (Senin - Sabtu),Kel. Sukarasa 6 Rw - Kel. Cipedes 10 Rw - Warga Buang Langsung - Komersil Dan Non Komersil
+151,Bandung Selatan,Sumur Bandung,Kosambi,Pasar Kosambi,12,10,1,Pasar Dan Umum/Masyarakat,Tiap Hari Jam 14:00,Pasar Kosambi - Jl. Ahmad Yani - Kel. Kebon Pisang 2 Rw - Perkantoran - Itc
+152,Bandung Selatan,Sumur Bandung,Patrakomala,Patrakomala,16,12,1,Umum/Masyarakat,"Tiap Hari (Selasa-Jumat 2 Rit, Rental Pada Hari Lain 1 Rit)",Rumah Tinggal 2 Rw - Trida - Jl. Braga - Jl. Merdeka - Jl. Wastukancana
+153,Bandung Selatan,Sumur Bandung,Gedung Pakuan,Gedung Pakuan,-,3,1,Kawasan Gedung Pakuan,-,-
+154,Bandung Selatan,Sumur Bandung,Gudang Selatan,Gudang Selatan,34,25,1,Umum/Masyarakat,2 X Seminggu (Selasa Dan Kamis) Jam 17:00,Kel. Braga 4 Rw - Kel. Merdeka 6 Rw - Kel. Kebon Pisang 5 Rw
+155,Bandung Selatan,Sumur Bandung,BI Braga,Braga,8,4,1,Kawasan BI,"3 X Seminggu (Senin, Rabu, Jumat) Jam 05:00",Kawasan BI
+156,Bandung Timur,Ujung Berung,Cijambe,Cijambe,19,15,1,Umum/Masyarakat,-,Kel. Pasir Endah 6 Rw - Kel. Cigending 1 Rw - Kel. Cisaranten 1 Rw - Kel. Sindangjaya 1 Rw - Sampah Liar
+157,Bandung Timur,Ujung Berung,Pasar Ujung Berung,Pasar Ujung Berung,32,30,2,Pasar Dan Umum/Masyarakat,Tiap Hari,Kel. Cigending 5 Rw - Kel. Pasirjati 7 Rw - Kel. Pasanggrahan 2 Rw - Kel. Pasirwangi 1 Rw - Komplek Gending Mas - Pasar Ujung Berung - Sapuan Jalan - Pertokoan - Sampah Liar
+158,Bandung Timur,Ujung Berung,Cigending,Cigending,9,8,1,Umum/Masyarakat,Tiap Hari,Kel. Pasirwangi 5 Rw - Kel. Cigending 1 Rw - Sampah Liar
+159,Bandung Timur,Ujung Berung,Ujung Berung Indah,Komplek Ujung Berung Indah,4.5,4,1,Umum/Masyarakat,1 X Seminggu (Selasa),Komplek Ujung Berung Indah

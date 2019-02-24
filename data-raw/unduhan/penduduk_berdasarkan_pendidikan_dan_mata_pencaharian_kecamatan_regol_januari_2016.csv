@@ -1,0 +1,20 @@
+no,pendidikan_dan_mata_pencaharian,wni_pria,wni_wanita,wna_pria,wna_wanita
+A,PENDIDIKAN,NA,NA,NA,NA
+1,Tidak/Belum Sekolah,5469,5705,0,0
+2,Tidak Tamat SD,3454,2976,0,1
+3,Belum Tamat SD,7092,7302,0,0
+4,Tamat SD,6777,7056,0,0
+5,SLTP,6703,7479,1,0
+6,SLTA,5929,5617,0,1
+7,Akademi/Sederajat,2938,3399,7,1
+8,Universitas,2122,2364,0,0
+B,MATA PENCAHARIAN,NA,NA,NA,NA
+1,Pegawai Negeri,4302,4146,0,0
+2,TNI/POLRI,503,267,0,0
+3,Pegawai Swasta,5380,6027,2,0
+4,Tani,285,343,0,0
+5,Dagang,6279,5873,0,0
+6,Pelajar,7820,8424,0,1
+7,Mahasiswa,3925,3875,0,0
+8,Pensiunan,1836,1556,0,0
+9,Lain-lain,10154,11387,6,2

@@ -1,0 +1,155 @@
+kecamatan,kelurahan,jumlah_pekerja_laki_laki,jumlah_pekerja_perempuan,jumlah_peserta_bpjs
+Andir,Maleber,50,546,591
+Andir,Dungus Cariang,382,155,267
+Andir,Garuda,540,288,473
+Andir,Campaka,315,129,266
+Andir,Kebon Jeruk,747,908,965
+Andir,Ciroyom,253,171,266
+Cihapit,Antapani Tengah,498,77,506
+Cihapit,Antapani Wetan,164,124,111
+Cihapit,Antapani Kidul,129,17,99
+Cihapit,Antapani Kulon,187,274,429
+Arcamanik,Cisaranten Endah,229,25,225
+Arcamanik,Cisaranten Kulon,67,8,68
+Arcamanik,Sukamiskin,206,89,145
+Arcamanik,Cisaranten Bina Harapan,221,429,648
+Arcamanik,Sindang Jaya,161,16,119
+Astanaanyar,Nyengseret,105,47,58
+Astanaanyar,Cibadak,260,187,195
+Astanaanyar,Panjunan,86,56,110
+Astanaanyar,Karanganyar,184,148,238
+Astanaanyar,Pelindung Hewan,403,222,507
+Astanaanyar,Karasak,180,74,217
+Babakan Ciparay,Margahayu Utara,348,261,417
+Babakan Ciparay,Babakan,147,83,193
+Babakan Ciparay,Margasuka,652,361,842
+Babakan Ciparay,Babakan Ciparay,4.426,3.591,5.514
+Babakan Ciparay,Sukahaji,250,119,355
+Babakan Ciparay,Cirangrang,862,682,1.208
+Bandung Kidul,Batununggal,1.817,881,2.31
+Bandung Kidul,Batu Cikal,158,44,71
+Bandung Kidul,Kujangsari,464,34,409
+Bandung Kidul,Mengger,198,103,253
+Bandung Kidul,Wates,0,0,0
+Bandung Kulon,Cijerah,299,482,490
+Bandung Kulon,Cigondewah Kaler,156,195,186
+Bandung Kulon,Gempol Sari,128,161,88
+Bandung Kulon,Cigondewah Kidul,30,20,30
+Bandung Kulon,Caringin,999,423,713
+Bandung Kulon,Warung Muncang,300,109,232
+Bandung Kulon,Cigondewah Rahayu,88,79,145
+Bandung Kulon,Cibuntu,416,118,510
+Bandung Wetan,Cihapit,2.219,1.006,1.567
+Bandung Wetan,Citarum,3.413,1.904,3.439
+Bandung Wetan,Taman Sari,2.186,1.363,1.3
+Batununggal,Binong,199,96,98
+Batununggal,Samoja,379,11,122
+Batununggal,Kebon Gedang,27,29,51
+Batununggal,Cibangkong,2.484,1.103,3.481
+Batununggal,Kebon Waru,336,92,378
+Batununggal,Gumuruh,428,1.047,157
+Batununggal,Maleer,101,42,134
+Batununggal,Kacapiring,1.069,150,1.09
+Babakan Ciparay,Jamika,282,122,69
+Babakan Ciparay,Kopo,1.491,716,1.391
+Babakan Ciparay,Babakan Asih,141,43,128
+Babakan Ciparay,Suka Asih,765,263,733
+Babakan Ciparay,Babakan Tarogong,167,69,74
+Bojongloa Kidul,Kebon Lega,2.132,812,1.721
+Bojongloa Kidul,Cibaduyut,319,323,154
+Bojongloa Kidul,Mekarwangi,396,38,407
+Bojongloa Kidul,Cibaduyut Kidul,0,0,0
+Bojongloa Kidul,Situsaeur,477,124,340
+Bojongloa Kidul,Cibaduyut Wetan,4,11,15
+Buahbatu,Jatisari,91,15,0
+Buahbatu,Margasari,282,241,436
+Buahbatu,Sekejati,6.354,781,3.759
+Buahbatu,Cijawura,1.279,27,1.206
+Cibeunying Kaler,Sukaluyu,118,71,130
+Cibeunying Kaler,Cigadung,197,76,282
+Cibeunying Kaler,Cihaurgeulis,363,136,340
+Cibeunying Kaler,Neglasari,1.333,270,1.438
+Cibeunying Kidul,Sukapada,574,168,75
+Cibeunying Kidul,Padasuka,249,148,140
+Cibeunying Kidul,Pasirlayung,735,412,895
+Cibeunying Kidul,Cicadas,1.838,233,1.914
+Cibeunying Kidul,Sukamaju,63,46,109
+Cibeunying Kidul,Cikutra,1.349,1.119,727
+Ujungberung,Pasir Biru,2,2,0
+Ujungberung,Cipadung,205,145,235
+Ujungberung,Cisurupan,17,12,15
+Ujungberung,Palasari,151,81,214
+Cicendo,Sukaraja,677,153,693
+Cicendo,Pajajaran,832,899,1.388
+Cicendo,Pamoyanan,140,124,146
+Cicendo,Arjuna,1.323,170,1.392
+Cicendo,Pasirkaliki,2.254,940,2.405
+Cicendo,Husen Sastranegara,4.567,797,4.905
+Cidadap,Ledeng,299,112,388
+Cidadap,Ciumbuleuit,894,460,846
+Cidadap,Hegarmanah,1.229,554,1.2
+Ujungberung,Pakemitan,1.009,221,847
+Ujungberung,Sukamulya,0,0,0
+Ujungberung,Babakan Penghulu,1.066,268,454
+Ujungberung,Cisaranten Wetan,879,856,972
+Coblong,Sekeloa,26,24,10
+Coblong,Lebak Siliwangi,950,202,3.24
+Coblong,Lebakgede,1.784,1.545,844
+Coblong,Cipaganti,1.039,570,1.395
+Coblong,Sadangserang,25.035,6.62,29.563
+Coblong,Dago,851,595,885
+Gedebage,Rancabolang,962,1.634,1.881
+Gedebage,Rancanumpang,99,41,139
+Gedebage,Cimincrang,330,133,328
+Gedebage,Cisaranten Kidul,266,39,40
+Kiaracondong,Kebon Kangkung,83,58,80
+Kiaracondong,Babakan Surabaya,212,155,281
+Kiaracondong,Sukapura,2.526,5.312,7.626
+Kiaracondong,Cicaheum,930,617,1.382
+Kiaracondong,Kebon Jayanti,24,31,29
+Kiaracondong,Babakan Sari,135,124,223
+Lengkong,Paledang,373,114,210
+Lengkong,Cikawao,184,60,191
+Lengkong,Turangga,991,1.099,1.171
+Lengkong,Lingkar Selatan,1.289,300,1.283
+Lengkong,Burangrang,869,364,922
+Lengkong,Malabar,817,238,1.821
+Lengkong,Cijagra,3.252,772,3.719
+Mandalajati,Karang Pamulang,2.302,1.019,3.223
+Mandalajati,Pasir Impun,32,65,49
+Mandalajati,Mandalajati,28,28,51
+Mandalajati,Jatihandap,131,15,147
+Panyileukan,Mekarmulya,1.278,1.707,2.267
+Panyileukan,Cipadung Kidul,221,56,97
+Panyileukan,Cipadung Kulon,125,224,283
+Panyileukan,Cipadung Wetan,8,3,124
+Rancasari,Mekarjaya,208,37,245
+Rancasari,Cipamokolan,1.082,311,1.091
+Rancasari,Derwati,335,77,253
+Rancasari,Manjahlega,642,726,436
+Regol,Pasirluyu,191,59,190
+Regol,Ciateul,1.643,268,2.674
+Regol,Pungkur,289,119,226
+Regol,Cigereleng,2.237,351,2.267
+Regol,Ancol,1.023,275,688
+Regol,Ciseureuh,1.73,443,1.011
+Regol,Balonggede,989,695,1.267
+Sukajadi,Sukawarna,701,302,744
+Sukajadi,Pasteur,2.426,916,2.379
+Sukajadi,Sukabungah,225,195,289
+Sukajadi,Sukagalih,1.209,846,1.603
+Sukajadi,Cipedes,386,145,260
+Sukasari,Sukarasa,4.769,309,832
+Sukasari,Gegerkalong,614,353,454
+Sukasari,Isola,27.304,1.395,548
+Sukasari,Sarijadi,310,121,79
+Sumur Bandung,Kebon Pisang,1.369,2.109,2.73
+Sumur Bandung,Merdeka,1.715,608,1.723
+Sumur Bandung,Babakan Ciamis,10.293,3.681,59.197
+Sumur Bandung,Braga,4.08,1.625,2.879
+Cinambo,Pasir Wangi,2,1,0
+Cinambo,Pasanggrahan,42,32,74
+Cinambo,Ujungberung,2.342,1.869,3.556
+Cinambo,Pasir Endah,22,6,28
+Cinambo,Pasir Jati,53,67,120
+Cinambo,Cigending,1,3,4

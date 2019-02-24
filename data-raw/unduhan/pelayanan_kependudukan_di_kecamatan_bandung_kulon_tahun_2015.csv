@@ -1,0 +1,10 @@
+no,jenis_data,jumlah,satuan
+1,Penerbitan Kartu Keluarga (KK),3650,kepala_keluarga
+2,Penerbitan Kartu Tanda Penduduk (KTP),3507,jiwa
+3,Penerbitan Nomor Induk Kependudukan (NIK),690,surat
+4,Penerbitan Surat Keterangan Umum (Serba Guna),487,surat
+5,Penerbitan Surat Keterangan Tidak Mampu,819,surat
+6,Penerbitan Surat Pindah Datang,552,surat
+7,Penerbitan Surat Pindah Keluar,723,surat
+8,Penerbitan Surat Keterangan Domisili Perusahaan,133,surat
+9,Penerbitan Surat Keterangan Kelakuan Baik,359,surat

@@ -1,0 +1,33 @@
+no_polisi,merk_kendaraan,jenis_kendaraan,kapasitas_volume_kendaraan,tahun,pengemudi
+D 8783 BO,Nissan,LH,10,1996,Rodiana
+D 8941 BT,Mitsubishi,LH,10,1997,Iwan Ridwan
+D 8584 A,Isuzu FTR 3 / Borneo,LH,10,2000,Nanang Suryana
+D 8844 A,Isuzu FTR 3 / Borneo,LH,10,2001,Omas Suryana
+D 8014 A,Hino,LH,10,2002,Usup
+D 8245 C,Hino,LH,10,2006,Atep Dididn
+D 8238 C,Hino,LH,10,2006,Saepuloh
+D 8239 C,Hino,LH,10,2006,Markum
+D 8337 C,Hino,LH,10,2007,Hamdani
+D 8338 C,Hino,LH,10,2007,Ahmad Setiawan
+D 8339 C,Hino,LH,10,2007,Maman
+D 8340 C,Hino,LH,10,2007,Rahmat
+D 8341 C,Hino,LH,10,2007,Awen Wewen
+D 8342 C,Hino,LH,10,2007,Usep
+D 8504 C,Hino,LH,10,2010,Warman
+D 8092 C,Hino,LH,10,2013,Edih
+D 9876 A,Isuzu Bison,LH,6,1994,Sutisna
+D 8776 CK,Toyota BU343R,LH,6,2002,Nasihin
+D 8075 CH,Toyota Ryno,LH,6,2003,Ahmad Sulaeman
+D 8251 C,Isuzu / NKR 71,LH,6,2006,Kamaludin
+D 8252 C,Isuzu / NKR 71,LH,6,2006,Cucu Toha
+D 8678 EK,Isuzu,LH,6,2014,Uju Junaedi
+D 8247 C,Hino,Dump Truk,10,2006,Dede Hermawan
+D 9153 A,Isuzu Bison,Dump Truk,6,1993,Dede Sarip
+D 8009 C,Mitsubishi / FE 349,Dump Truk,6,2000,Aan Sepian
+D 8032 EK,Mitsubishi,Dump Truk,6,2014,Wagimin
+D 8035 EK,Mitsubishi,Dump Truk,6,2014,Edi
+D 8038 EK,Mitsubishi,Dump Truk,6,2014,Isur Suryana
+D 8041 EK,Mitsubishi,Dump Truk,6,2014,Suryana
+D 8105 C,Isuzu,Compactor,10,2013,Manap
+D 8096 C,Isuzu,Compactor,6,2013,Andik
+Alat Berat,Komatsu WA 180,Loader,NA,2007,Sarijo

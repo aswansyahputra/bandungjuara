@@ -1,0 +1,27 @@
+no,nama_perusahaan,alamat_perusahaan,besaran_nilai_perkiraan_dalam_rp,uraian,program_prioritas,sub_program_prioritas,penerima,lokasi_penerima,kecamatan,kelurahan,tahun_pelaksana,keterangan
+1,PT Cipaku,Jl. Cipaku XI,1350000,Kegiatan Posyandu,Kesehatan,Pengadaan PMT di Posyandu,Warga,RW 02,Cidadap,Ledeng,-,Hotel
+2,Galery Ciumbuleuit,-,4800000,Kegiatan Posyandu,Kesehatan,Pengadaan Tempat dan PMT Posyandu,Warga,RW 01,Cidadap,Ciumbuleuit,-,Hotel
+3,Nara Park,Jl. Rancabentang 28,1200000,Kegiatan Posyandu,Kesehatan,Bantuan PMT,Warga,-,Cidadap,Ciumbuleuit,-,Restoran
+4,Bio Farma,Jl. Pasteur,106500000,Vaksin Flubio,Kesehatan,Vaksinasi,Warga,-,Sukajadi,Pasteur,-,BUMN
+5,Bio Farma,Jl. Pasteur,60000000,Vaksin Flubio,Kesehatan,Vaksinasi,Warga,-,Sukajadi,Pasteur,-,BUMN
+6,PT Angkasa Pura,Jl. Pajajaran,40000000,Pengeboran air di RT 05 dan 06 bantuan CSR PT.Angkasa Pura,Kesehatan,Bantuan sarana air bersih,Warga RT 05 dan RT 06,RW 06,Andir,Campaka,-,BUMN
+7,Melinda Hospital,Jl. Pajajaran,10000000,Pemberian Obat Dan Goodybag Di Acara Pengobatan Gratis Warga Pasirkaliki,Kesehatan,Pengobatan Gratis,Kelurahan Pasir Kaliki,Jl. Pajajaran Blk No. 37,Cicendo,Pasirkaliki,-,BUMN
+8,Percetakan Advent Kerjasama Dengan Rs. Advent,Jl. Raya Cibeureum Rt.05/04,5500000,Pemeriksaan kesehatan dan penyuluhan gratis,Kesehatan,Pelayanan kesehatan,Warga RW 04,RW.04,Andir,Campaka,-,Perdagangan Umum
+9,Persatuan Radio Swasta Nasional Indonesia (Prsni),Jl. Kurdi 76,10000000,Kursi Roda (2 Unit),Kesehatan,Pengadaan Barang,RW 02,-,Bojongloa Kaler,Jamika,-,BUMN
+10,PT CSA,Kopo Jaya,3000000,-,Kesehatan,Sunatan massal,RT 04/02,Gg.Porib,Babakan Ciparay,Babakan Ciparay,-,Jasa Lainnya
+11,PT Griya Yogya Junction,Jl. Buah Batu,300000000,-,Kesehatan,Pengadaan Mobil Ambulance,Warga,Warga RW 10,Babakan Ciparay,Babakan,-,Perdagangan Umum
+12,Bidan Cintya,Jl. Soekarno Hatta Rt. 01/08,5000000,-,Kesehatan,PMT Makanan Balita,PKK,Posyandu,Babakan Ciparay,Babakan,-,-
+13,PT Fasindo Jaya Kabel Tv,Jl. Caringin No.439 D,10000000,-,Kesehatan,Pengadaan Barang,Warga,Masyarakat Sekitar,Babakan Ciparay,Babakan,-,Perdagangan Umum
+14,Pabrik Tahu ABG,Jl. Jamika No. 138,2000000,"Santunan orang sakit, memberikan sembako, memberikan santunan kepada orang yang meniggal",Kesehatan,Pengadaan barang dan bakti sosial,Warga sekitar,RW 06,Babakan Ciparay,Sukahaji,2018,Perdagangan Umum
+15,PT Alfamart Tbk,Jl. Jamika No.38,5000000,Pemberian sembako,Kesehatan,Pengadaan barang,Warga sekitar,RW 01,Babakan Ciparay,Sukahaji,2018,Perdagangan Umum
+16,Koperasi Wirausaha Sejahtera Mandiri,Jl. H. Zakaria No.8,3500000,Pemberian sembako,Kesehatan,Pengadaan barang,Warga sekitar,RW 01,Babakan Ciparay,Sukahaji,2018,Perdagangan Umum
+17,PT Panghegar Mitra Abadi,Jl. Soekarno Hatta,1000000,Membantu  operasional pengobatan gratis,Kesehatan,Pengobatan Gratis,Warga Masyarakat,Irsud,Bandung Kulon,Cibuntu,2018,Perdagangan Umum
+18,PT Panghegar Mitra Abadi,Jl. Soekarno Hatta,2000000,Membantu biaya pengobatan ibu esih warga RT09RW04 yang sakit kanker,Kesehatan,Pengobatan,Ibu Esih,RT 09 RW 04,Bandung Kulon,Cibuntu,2018,Perdagangan Umum
+19,Waluyajati,Jl. Asmi,10000000,Pengobatan Gratis,Kesehatan,-,Warga,Kel.Pungkur,Regol,Pungkur,2017 - 2018,BUMN
+20,PT Daya Motor,RT 08/02,10000000,Pkt U.Khitanan,Kesehatan,Baksos,Warga,RW 02,Kiaracondong,Kebon Kangkung,2017-2018,BUMN
+21,CV Gunung Gede,RT 08/02,2500000,Handuk,Kesehatan,Baksos,Warga,RW 02,Kiaracondong,Kebon Kangkung,2017-2018,BUMN
+22,Tulus Medika,RT 04/04,1000000,Pkt u.Posyandu,Kesehatan,Baksos,Warga,RW 04,Kiaracondong,Kebon Kangkung,2017-2018,BUMN
+23,Showroom Ganjar,RT 04/06,6000000,Utk.Posyandu,Kesehatan,Baksos,Warga,RW 06,Kiaracondong,Kebon Kangkung,2017-2018,BUMN
+24,SKA,RT 02/11,1800000,Infrastruktur,Kesehatan,Baksos,Warga,RW 11,Kiaracondong,Kebon Kangkung,2017-2018,BUMN
+25,PT Merdeka Motor,RT 03/11,5000000,Infrastruktur,Kesehatan,Baksos,Warga,RW 11,Kiaracondong,Kebon Kangkung,2017-2018,BUMN
+26,PLN,Jl. Ciliwung No.5,180000000,Mobil ambulance,Kesehatan,Alat kesehatan,Warga RW 02,RW 02,Arcamanik,Sukamiskin,2018,BUMN

@@ -1,0 +1,10 @@
+no,pendidikan,wni_laki_laki,wni_perempuan,jumlah_wni,wna_laki_laki,wni_perempuan_1,jumlah_wna,jumlah_laki_laki,jumlah_perempuan,jumlah
+1,Tidak/Belum Sekolah,4585,5232,9817,0,0,0,4585,5232,9817
+2,Tidak Tamat SD,1637,1479,3116,0,0,0,1637,1479,3116
+3,Belum Tamat SD,5033,4729,9762,0,0,0,5033,4729,9762
+4,Tamat SD,9011,9196,18207,1,1,2,9012,9197,18209
+5,SLTP,7582,6977,14559,0,0,0,7582,6977,14559
+6,SLTA,7483,6353,13836,0,1,1,7483,6354,13837
+7,Akd/Sarjana Muda,1661,1425,3086,11,2,13,1672,1427,3099
+8,Sarjana,1575,1073,2648,7,5,12,1582,1078,2660
+NA,JUMLAH,38567,36464,75031,19,9,28,38586,36473,75059

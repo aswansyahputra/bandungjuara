@@ -1,0 +1,13 @@
+tahun,bulan,jumlah_kebakaran,benda_yang_terbakar_bangunan_perumahan,benda_yang_terbakar_pasar,benda_yang_terbakar_bangunan_industri,benda_yang_terbakar_shoping_centre,benda_yang_terbakar_bangunan_umum,benda_yang_terbakar_lain_lain,penyebab_kebakaran_kompor,penyebab_kebakaran_lampu_tempel,penyebab_kebakaran_listrik,penyebab_kebakaran_rokok,penyebab_kebakaran_lain_lain,jumlah_yang_terbakar_bangunan_perumahan,jumlah_yang_terbakar_kios,jumlah_yang_terbakar_bangunan_industri,jumlah_yang_terbakar_shoping_centre,jumlah_yang_terbakar_lain_lain,korban_mati,korban_luka,mobil_yang_bertugas,penggunaan_air_pdam_m3,penggunaan_air_lain_lain_m3,areal_kebakaran_m2,bangunan_terselamatkan,taksiran_jumlah_kerugian_rp
+2009,JANUARI,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2009,FEBRUARI,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2009,MARET,2,2,-,-,-,-,-,-,-,1,-,1,2,-,-,-,-,-,-,6,16,-,196,6,200000000
+2009,APRIL,1,1,-,-,-,-,-,-,-,-,-,1,1,-,-,-,-,-,-,2,-,-,250,3,150000000
+2009,MEI,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2009,JUNI,4,1,1,2,-,-,-,-,-,1,-,3,1,300,2,-,-,-,-,14,68,-,11458,-,1425000000
+2009,JULI,1,1,-,-,-,-,-,-,-,-,-,1,2,-,-,-,-,-,-,3,4,-,60,-,75000000
+2009,AGUSTUS,4,1,-,2,-,1,-,-,-,2,-,2,5,-,2,-,-,-,-,10,62,-,5572,-,80490000000
+2009,SEPTEMBER,3,1,-,1,-,-,1,-,-,2,-,1,1,-,1,-,1,-,-,10,28,-,1155,-,150000000
+2009,OKTOBER,1,-,-,1,-,-,-,-,-,1,-,-,-,-,1,-,-,-,-,2,16,-,100,-,75000000
+2009,NOPEMBER,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-
+2009,DESEMBER,3,1,-,2,-,-,-,1,1,1,-,-,3,-,2,-,-,-,-,17,40,-,870,-,125000000

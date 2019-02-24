@@ -1,0 +1,53 @@
+nama_posyandu,strata_posyandu,kelurahan,rt,rw,kegiatan
+Anggrek,Madya,Isola,2,1,Bank sampah-posbindu
+Nusa Indah,Mandiri,Isola,2,2,"BKB, BKL, posbindu"
+Budi Asih,Purnama,Isola,1,3,Posbindu
+Ananda I,Purnama,Isola,4,4,Posbindu
+Ananda II,Purnama,Isola,6,4,Posbindu
+Ananda III,Madya,Isola,7,4,Posbindu
+Cempaka I,Purnama,Isola,0,0,Posbindu
+Cempaka II,Madya,Isola,2,6,Posbindu
+Cempaka III,Madya,Isola,4,6,Posbindu
+Cempaka IV,Madya,Isola,5,6,Posbindu
+Cempaka V,Madya,Isola,6,6,Posbindu
+Cempaka VI,Madya,Isola,7,6,Posbindu
+Miana I Pos 1,Madya,Gegerkalong,4,3,nihil
+Miana I Pos 2,Madya,Gegerkalong,7,3,bank sampah
+Miana II Pos 1,Madya,Gegerkalong,3,4,-
+Miana II Pos 2,Purnama,Gegerkalong,5,4,Urban farming
+Miana III Pos 1,Mandiri,Gegerkalong,1,7,"Posbindu, BKL, Bank sampah"
+Miana III Pos 2,Madya,Gegerkalong,6,7,Urban farming
+Miana IV,Madya,Gegerkalong,6,6,-
+Miana V,Mandiri,Gegerkalong,2,2,"TRIBINA, POS PAUD, PLIPPA, Urban Farming, Toga, UP2K"
+Miana VI Pos 1,Purnama,Gegerkalong,5,1,Posbindu
+Miana VI Pos 2,Purnama,Gegerkalong,3,1,Posbindu
+Miana VII Pos 1,Purnama,Gegerkalong,1,5,Posbindu
+Miana VII Pos 1,Purnama,Gegerkalong,3,5,"PAUD, Toga"
+Miana VIII,Mandiri,Gegerkalong,2,2,"BKB, BKL, Posbindu, Bank sampah, Urban farming"
+Kenanga I,Madya,Sukarasa,6,1,"BKL, Posbindu"
+Kenanga II,Mandiri,Sukarasa,6,2,"BKB, BKL, Toga, Posbindu"
+Sakura II,Purnama,Sukarasa,2,3,"bank sampah, BKB, BKL, posbindu"
+Sakura III,Madya,Sukarasa,4,3,-
+Teratai I,Purnama,Sukarasa,5,4,Posbindu
+Teratai II,Madya,Sukarasa,1,4,-
+Teratai,Purnama,Sukarasa,1,5,"posbindu, PAUD"
+Nusa Indah,Madya,Sukarasa,2,6,Jentik
+Sakura  I,Purnama,Sukarasa,3,7,"Posbindu, BKB"
+Sedap Malam I,Madya,Sarijadi,1,1,Posbindu
+Sedap Malam II,Madya,Sarijadi,7,1,Posbindu
+Sedap Malam III,Purnama,Sarijadi,5,1,Perpustakaan/Pojok baca
+Mawar I,Madya,Sarijadi,7,2,Posbindu
+Mawar II,Madya,Sarijadi,2,2,Posbindu
+Melati,Purnama,Sarijadi,4,3,"Posbindu, urban farming, bank sampah"
+Chrisand,Mandiri,Sarijadi,4,4,"TRIBINA, KWT, PLIPPA, Kampung KB, UP2K"
+Bougenvile,Madya,Sarijadi,5,5,Posbindu urban farming
+Flamboyan I,Purnama,Sarijadi,4,6,"Posbindu, BKB, Pos PAUD"
+Flamboyan II,Purnama,Sarijadi,4,6,"Posbindu, BKB, Pos PAUD"
+Flamboyan III,Madya,Sarijadi,7,6,"Posbindu, BKB, Pos PAUD"
+Teratai,Madya,Sarijadi,7,7,Posbindu
+Bunga Tanjung I,Purnama,Sarijadi,10,8,"BKB, Posbindu"
+Bunga Tanjung II,Purnama,Sarijadi,10,8,"BKB, Posbindu"
+Bunga Matahari,Madya,Sarijadi,2,9,-
+Anyelir I,Madya,Sarijadi,3,10,"Bank sampah, posbindu"
+Anyelir II,Purnama,Sarijadi,3,10,"BKB, posbindu"
+Anggrek,Purnama,Sarijadi,0,11,"Bank sampah, urban Farming, Toga, Posbindu"

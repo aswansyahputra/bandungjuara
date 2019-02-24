@@ -1,0 +1,131 @@
+no,nama,alamat,jenis_kegiatan
+1,BRI,Jl. Cijerah RW 04 Kel. Cijerah,Perbankan
+2,BRI,Jl. Cigondewah  RW 01 Kel.Cig.Rahayu,Perbankan
+3,BNI 1946,Jl. Cijerah RW 04 Kel. Cijerah,Perbankan
+4,Bank NISP,Jl. Cijerah RW 05 Kel. Cibuntu,Perbankan
+5,BTN,Jl. Cijerah RW 05 Kel. Cibuntu,Perbankan
+6,BPD Jabar Banten,Jl. Cijerah RW 04 Kel. Cijerah,Perbankan
+7,BRI,Jl. Cijerah RW 03 Kel. Cijerah,Perbankan
+8,Bank Danamon,Jl. Cijerah RW 11 Kel. Cigondewah Kaler,Perbankan
+9,BTPN,Jl. Cijerah RW 11 Kel. Cigondewah Kaler,Perbankan
+10,BPR,Jl. Melong Asih RW 09 Kel. Cijerah,Perbankan
+11,Pegadaian,Jl. Cijerah RW 09 Kel. Cijerah,Perbankan
+12,SPBU Holis,Jl. Holis RW 08 Kel. Warung Muncang,Pengisian bahan bakar
+13,SPBU Bojong,Jl. Bojong Raya RW 02 Kel. Caringin,Pengisian bahan bakar
+14,SPBU Panghegar,Jl. Sukarno Hatta RW 03 Kel. Cibuntu,Pengisian bahan bakar
+15,SPBU Sudirman,Jl. Jendral Sudirman,Pengisian bahan bakar
+16,Indomart,Jl. Cijerah RW 06 Kel. Cibuntu,Minimart
+17,Alfamart,Jl. Cijerah RW 06 Kel. Cibuntu,Minimart
+18,Grya mart,Jl. Sukarno Hatta RW 03 Kel. Cibuntu,Minimart
+19,Alfa mart - SPBU Panghegar,Jl. Sukarno Hatta RW 03 Kel. Cibuntu,Minimart
+20,Borma Toserba,Jl. Cijerah RW 03 Kel. Cijerah,Toserba
+21,Indomart,Jl. Bojong Raya RW 02 Kel. Caringin,Minimart
+22,Alfamart,Jl. Sukarno Hatta RW 07 Kel. Warung Muncang,Minimart
+23,Bravo,Jl. Holis RW 08 Kel. Warung Muncang,Minimart
+24,Yo mart,Jl. Cijerah RW 02 Kel. Caringin,Minimart
+25,Tri M,Jl. Cijerah RW 02 Kel. Caringin,Minimart
+26,Indomart,Jl. Sukarno Hatta RW 06 Kel.Warungmuncang,Minimart
+27,Indomart,Jl. Jendral Sudirman RW 01 Kel. Warungmuncang,Minimart
+28,SB Mart,Jl. Terusan Suryani RW 03 Kel. Warungmuncang,Minimart
+29,Yo mart,Jl. Cigondewah RW 12 Kel. Cigondewah Kaler,Minimart
+30,Alfamart,Jl. Cigondewah RW 12 Kel. Cigondewah,Minimart
+31,Indomart,Jl. Gempolraya RW 01 Kel. Gempolsari,Minimart
+32,Alfa mart,JL. Gempolraya RW 07 Kel. Gempolsari,Minimart
+33,Indomart,Komp. Taman Holis Indah -  Kel. Cig. Kidul,Minimart
+34,Indomart,Jl. Cigondewah Rahayu Kel. Cigondewah Rahayu,Minimart
+35,Alfa mart,Jl. Cijerah RW. 05 Kel. Cibuntu,Minimart
+36,Alfa mart,Jl. Melong Asih RW. 08 Kel. Cijerah,Minimart
+37,RM.Baso Panghegar,Jl. Holis RW 01 Kel. Caringin,Rumah makan/Restorant
+38,RM Alam Desa,Jl. Terusan Holis RW 01 Kel. Warung Muncang,Rumah makan/Restorant
+39,RM. Mie Kocok Holis,Jl. Syahbandar RW 01 Kel. Caringin,Rumah makan/Restorant
+40,RM Sari Rasa,Jl. Sukarno Hatta Kel. Warungmuncang,Rumah makan/Restorant
+41,Perusahaan Baso Cihampelas,Jl. Terusan Suryani RW 01 Kel. Warungmuncang,Toko Baso
+42,Perusahaan Baso Panghegar,Jl. Holis RW 01 Kel. Caringin,Toko Baso
+43,Yayasan Dana Sosial Priangan,Jl. Terusan Holis RW 02 Kel.Warungmuncang,Rumah duka/Kremasi
+44,Yayasan Bumi Baru,Jl. Holis RW 08 Kel. Warung Muncang,Rumah duka/Kremasi
+45,Kawasan Tekstil Cigondewah,Jl. Cigondewah RW 06 Kel. Cig.Rahayu,Pusat perdagangan kain
+46,Pasar Cijerah,Jl. Cijerah RW 04 Kel. Cijerah,Pasar tradisional
+47,Pasar Cigondewah Rahayu,Jl. Cigondewah RW 01 Kel. Cigondewah Rahayu,Pasar tradisional
+48,CV. Mitra Abadi,Jl. Sumber Asih No. 68 RT. 06 RW. 07,Jasa laundry
+49,PT. Kharisma Auto Cemerlang,Jl. Soekarno Hatta No. 67 RT. 05 RW. 09,Perdagangan
+50,PT. Putra Citra Lestari,Jl. Soekarno Hatta No. 67 RT. 05 RW. 09,Developer Kontraktor
+51,Yayasan Al Munawar,Jl. Cibuntu Barat RT. 05 RW. 01,Pendidikan
+52,Apotik Nurkholis Farma,Jl. Holis No. 119 RT. 02 RW 08,Obat-obatan dan Alat Kesehatan
+53,CV. Sinar Terang,Jl. Sumber Asih No. 88 RT. 08 RW. 07,Gudang Tekstil
+54,PT. Farin Industri Nusantara,Jl. Nana Rohana No. 59 RT. 07 RW. 01,Perdagangan Jasa
+55,PT. Rainbow,Jl. Holis No. 215 RT. 09 RW. 07,Jual beli Krim
+56,PT. Multi Global Hasindo,Jl. Holis No. 438 RT. 01 RW. 03,Distributor Produk Plastik
+57,PT. Samoja Lestari,Jl. Holis No. 115,Kantor Service Elektronik
+58,CV. Ardi Putra Citra Mandiri,Jl. Suryani Dalam I No. 154/83,Konsultan Suplayer
+59,CV. Karya Akbar Pratama,Jl. Holis No. 9 RT. 01 RW. 01,Kantor Administrasi
+60,PT. Anugerah Putra Wijaya,Jl. Terusan Suryani No. 82 RT. 02 RW. 06,Perdagangan
+61,PT. Bank NISP,Jl. Cijerah RT. 01 RW. 05,Perbankan
+62,CV. Anugerah Liliwilly,Jl. Cijerah No. 253,Mini Market
+63,CV. Jaya Agung Print,Jl. H. Anwar RT. 01 RW. 06,Perdagangan barang dan jasa
+64,PT. Ghiga Inti Media,Jl. H. Alpi No. 74,Penyiaran
+65,PT. Radio Arzy Swaratama,Jl. Jend. Sudirman No. 74 RT. 08 RW. 01,Penyiaran
+66,MAS Istiqomah,Jl. Cijerah No. 151,Pendidikan
+67,PT. Teknayasa Konsultindo,Jl. H. Alpi No. 1,Kosultan Teknik dan Manajemen
+68,CV. Konveksi Mustika Jaya,Jl. Holis RT. 03 RW. 06,Konveksi Jaket
+69,CV. Indah Raya Sentosa,Jl. Cijerah No. 153,Perdagangan Jasa
+70,PT. Solusi Prima Conectivities,Jl. Magenta I No. 5,Perdagangan
+71,PT. Bintang Timur,Jl. Cijerah No. 25 A,Pembuatan Besi baja
+72,PT. Reka Buana Karya,Jl. Soekarna Hatta No. 42 A,Perdagangan Jasa
+73,PT. Lentherhaka,Jl. Soekarno Hatta No. 29,Perdagangan
+74,PT. Jaya Baru Abadi Sentosa,Jl. Cijerah No. 254,Toko Kain
+75,CV. Shenko Abadi,Jl. Melon Asih No. 61 RT. 06 RW. 08,Toko Busana Muslim
+76,PT. Aura Cendekia Sejahtera,Jl. Mekar Hurip No. 17,Perdagangan jasa diklat
+77,CV. Hari Baru,Jl. Cijerah Gg. H. Subki,Penjualan alat-alat motor
+78,CV. Indomaret,Jl. Melong Asih No. 63,Minimarket
+79,CV. Ilham,Jl. Cijerah RT. 06 RW. 04,Kelontongan
+80,CV. Bread Point,Jl. Cijerah No. 247 RT. 06 RW. 02,Toko Kopi
+81,CV. Global Grapindo Internasional,Jl. Cijerah No. 33,Perdagangan umum exim
+82,CV. Anggi Mugni Abadi,Jl. Mekar Sari No. 10,Laundry/ Perdagangan umum
+83,CV. Triguna Abadi Makmur,Komplek Cijerah Permai No. A1 RT. 02 RW. 08,Tour dan travel
+84,PT. Anugerah Kannon Abadi,Jl. Melong Cijerah No. 10/24,Perdagangan jasa
+85,PT. Sampulu Sada Mandoit,Jl. Cijerah No. 106,Perdagangan
+86,CV. Rabya Global Indo,Jl. Cijerah I No. 28,Perdagangan barang dan jasa
+87,PT. Pundimas Majumapan,Jl. Holis No. 340 RT. 03 RW. 04,Textile
+88,CV. Mayasari Jaya Sentosa,Jl. Bojong Raya No. 17 RT. 01 RW. 06,Industri makanan
+89,CV. Margo Mulyo,Jl. Bojong Raya No. 27 RT. 01 RW. 06,Ekspedisi
+90,PT. Satiya Jaya Raya,Jl. Syahbandar No. 4 RT. 01 RW. 01,Perdagangan barang dan jasa
+91,Kantor Jasa Penilai Publik,Jl. Tegel No. 1 RT. 03 RW. 05,Konsultasi Penilai
+92,CV. Mirtazani Insan Cemerlang,Jl. Bojong Raya No. 86,Toko Busana Muslim
+93,CV. Kanca Kemes Lestari,Jl. Cicukang No. 20 RT. 04 RW. 03,Kantor Pengolahan Kertas
+94,PT. Jaya Utama Perkasa,Jl. Holis Permai No. 11 RT. 05 RW. 03,Konveksi
+95,PT. Tirta Guna Engineering,Jl. Syahbandar No. 16,Jasa Konsultasi Teknik
+96,PT. Sarichem Polywarna,Jl. Holis No. 262 RT. 07 RW. 01,Kantor Alat perlengkapan tekstil
+97,PT. Tri Eka Putra Lestari,Jl. Cicukang No. 14 RT. 04 RW. 09,Gudang Kimia Tekstil
+98,PT. Tri Eka Putra Lestari,Jl. Holis No. 23/3 RT. 01 RW. 04,Kantor
+99,PT. Shiddiq Amanah Tours Travel,Jl. Cijerah 217,Perjalanan Haji dan Umroh
+100,CV. Bahagia,Jl. Tegel No. 1 RT. 03 RW. 05,Perdagangan
+101,PT. Griya Pratama Holis Square,Jl. Holis No. 460 RT. 01 RW. 02,Toko Modern
+102,PT. Wida Jaya,Bumi Asri G 39 RT. 03 RW. 09,Perdagangan Gas
+103,CV. Rekayasa Teknologi Automasi,Jl. Alamanda IV No. 11 RT. 03 RW. 04,Engineering Service
+104,CV. Langsar Cikal Mandiri,Bumi Asri No. 5 RT. 04 RW. 05,Perdagangan jasa
+105,PT. Sinerga Nusantara Indonesia,Jl. Dirgantara X RT. 07 RW. 05,Perdagangan Industri Makanan
+106,CV. Esa Persada,Jl. Gempol Asri 4 No. 30 RT. 08 RW. 10,Perdagangan jasa
+107,PT. Maxpell Technology Synergi,Jl. Mirabilis V No. 20 RT. 04 RW. 04,Perdagangan alat pembakar sampah
+108,CV. Aghnia,Gempolsari Indah Jl. Wijaya Kusumah 34,Perdagangan Umum
+109,PT. Wikarya Persada Utama,Jl. Marga Asri 4/B No. 72 RT. 05 RW. 08,Perdagangan Umum
+110,CV. Bintang Berkah,Komp Pesona Taman Burung E/7,Perdagangan jasa konsultan sipil
+111,CV. Amir Jaya Barokah,Jl. Dirgantara Raya RT. 07 RW. 05,Perdagangan Umum
+112,PT. Maxpell Technology Synergi,Gempolsari Indah C.V.20 RT. 04 RW. 04,Perdagangan Umum
+113,PT. Wening Arum Sari,Marga Asri VI.B.B.30 RT. 01 RW. 08,Perdagangan Umum
+114,CV. Pilar Kontraktor,Jl. Taman Holis Indah II No. 30,Perdagangan jasa dan pembangunan
+115,CV. Naslun Saleh,Jl. Cigondewah Kaler No. 12 A,Perdagangan jasa
+116,PT. Pohon Pepaya Jaya,Jl. Paralon I No. 11 RT. 03 RW. 11,Gudang
+117,PD. Cahaya Baru,Karang Mulya RT. 01 RW. 08,Jual beli Kain
+118,CV. Maharani,Cigondewah Kaler RT. 02 RW. 06,Kantor Administrasi
+119,CV. Hegar Sumber Kreasi,Jl. Paralon RT. 03 RW. 04,Bengkel las
+120,PT. Godiva Global Niaga,Taman Holis Indah E 3 No. 37,Perdagangan jasa
+121,Al Fath,Jl. Cigondewah RT. 02 RW 05,Konveksi
+122,Yayasan Al Fath Nur Tjuni,Jl. Cigondewah RT. 02 RW 05,Pendidikan
+123,Forum Ahli Pijat Tuna Netra,Jl. Cigondewah RT. 01 RW 04,Jasa Pijat
+124,CV. Berkah,KTC Jl.Cigondewah RT. 01 RW. 05,Jual beli kain
+125,PT. Sumber Jaya Kharisma Mandiri,Jl. Cibolerang Barat RT. 04 RW. 01,Bengkel bubut
+126,CV. Rimus Mandiri,Jl. Cigondewah,Perdagangan Umum
+127,CV. Glory Jaya,Taman Holis Indah E 1 No. 7,Perdagangan toko
+128,CV. Winners Stars,Taman Holis Indah 2B No. 12 RT. 03 RW. 09,Makloon
+129,PT. Coffonindo Arresta,Taman Holis Indah II A.21 RT. 03 RW. 09,Kantor Perusahaan Kapas
+130,CV. Athrowies,Taman Holis Indah I A No. 42A  RT. 08 RW. 05,Perdagangan Umum
