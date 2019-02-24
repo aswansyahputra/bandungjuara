@@ -8,10 +8,8 @@
 #'
 #' @source Dataset bersumber dari Open Data Bandung \url{http://data.bandung.go.id}.
 #'
-#' @import dplyr purrr
+#' @import readr dplyr purrr
 #' @importFrom janitor clean_names
-#'
-#' @export
 #'
 #' @examples
 #'
