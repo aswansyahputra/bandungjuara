@@ -1,12 +1,13 @@
 Package: bandungjuara
 Title: Bandung Juara
-Version: 0.0.0.9000
+Version: 0.1.0.0000
 Authors@R: 
     person(given = "Muhammad Aswan",
            family = "Syahputra",
            role = c("aut", "cre"),
            email = "aswansyahputra@sensolution.id")
 Description: Antarmuka dan aplikasi shiny untuk Open Data Kota Bandung
+Depends: R (>= 2.10)
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
@@ -15,3 +16,9 @@ BugReports: https://github.com/aswansyahputra/bandungjuara/issues
 Suggests: 
     tibble
 RoxygenNote: 6.1.1
+Imports: 
+    magrittr,
+    dplyr,
+    purrr,
+    janitor,
+    stringr

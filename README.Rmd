@@ -1,5 +1,7 @@
 ---
 output: github_document
+editor_options: 
+  chunk_output_type: console
 ---
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
@@ -11,7 +13,35 @@ knitr::opts_chunk$set(
   fig.path = "man/figures/README-",
   out.width = "100%"
 )
+
 ```
+
 # bandungjuara
 
-Masih dalam tahap pengerjaan. *Stay tuned!*
+Paket `bandungjuara` merupakan antarmuka Open Data Bandung dan (akan) berisi aplikasi shiny mengenai Kota Bandung.
+
+## Cara pemasangan
+
+``` r
+remotes::install_github("aswansyahputra/bandungjuara")
+```
+
+## Contoh
+
+```{r}
+library(bandungjuara)
+library(tibble)
+
+smp <- cari(kata_kunci = "smp")
+data_smp <- impor(.data = smp)
+```
+
+
+## Ucapan terimakasih
+Proyek ini dapat terlaksana atas upaya data terbuka yang tersaji di [Open Data Bandung](http://data.bandung.go.id)
+
+
+## Lisensi
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Hasil karya ini memiliki lisensi
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
