@@ -11,6 +11,9 @@ License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Imports: 
-    ckanr
+    ckanr,
+    dplyr
 URL: https://github.com/aswansyahputra/bandungjuara
 BugReports: https://github.com/aswansyahputra/bandungjuara/issues
+Suggests: 
+    tibble
