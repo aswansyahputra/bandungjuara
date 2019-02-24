@@ -3,10 +3,15 @@
 
 # bandungjuara
 
+[![Travis build
+status](https://travis-ci.org/aswansyahputra/bandungjuara.svg?branch=master)](https://travis-ci.org/aswansyahputra/bandungjuara)
+
+[![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
+
 Paket `bandungjuara` merupakan antarmuka Open Data Bandung dan (akan)
 berisi aplikasi shiny mengenai Kota Bandung.
 
-## Cara pemasangan
+## Cara Pemasangan
 
 ``` r
 remotes::install_github("aswansyahputra/bandungjuara")
@@ -256,15 +261,7 @@ data_smp
 #> #   nilai_rerata_ipa <dbl>
 ```
 
-## Ucapan terimakasih
+## Ucapan Terimakasih
 
 Proyek ini dapat terlaksana atas upaya data terbuka yang tersaji di
-[Open Data
-Bandung](http://data.bandung.go.id)
-
-## Lisensi
-
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />Hasil
-karya ini memiliki lisensi
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
-Commons Attribution-ShareAlike 4.0 International License</a>.
+[Open Data Kota Bandung](http://data.bandung.go.id)

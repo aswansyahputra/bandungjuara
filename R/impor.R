@@ -6,7 +6,7 @@
 #'
 #' @return dataframe atau list berisi dataframe apabila dataset yang hendak diimpor jumlahnya lebih dari satu.
 #'
-#' @source Dataset bersumber dari Open Data Bandung \url{http://data.bandung.go.id}.
+#' @source Dataset bersumber dari Open Data Kota Bandung \url{http://data.bandung.go.id}.
 #'
 #' @import readr dplyr purrr
 #' @importFrom janitor clean_names

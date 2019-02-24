@@ -13,7 +13,7 @@
 #'   \item{diperbaharui}{Tanggal dataset terakhir diperbaharui, dalam format YYYY-MM-DD}
 #' }
 #'
-#' @source Dataset bersumber dari Open Data Bandung \url{http://data.bandung.go.id}.
+#' @source Dataset bersumber dari Open Data Kota Bandung \url{http://data.bandung.go.id}.
 #'
 #' @import dplyr stringr
 #'

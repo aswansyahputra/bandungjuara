@@ -4,7 +4,7 @@
 \alias{cari}
 \title{Cari dataset}
 \source{
-Dataset bersumber dari Open Data Bandung \url{http://data.bandung.go.id}.
+Dataset bersumber dari Open Data Kota Bandung \url{http://data.bandung.go.id}.
 }
 \usage{
 cari(kata_kunci = "bandung")

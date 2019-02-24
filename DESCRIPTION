@@ -6,20 +6,23 @@ Authors@R:
            family = "Syahputra",
            role = c("aut", "cre"),
            email = "aswansyahputra@sensolution.id")
-Description: Antarmuka dan aplikasi shiny untuk Open Data Kota Bandung
-Depends: R (>= 2.10)
+Description: Antarmuka R untuk Open Data Kota Bandung. Saat ini
+    tersedia sekitar 1204 dataset yang dapat diunduh.
 License: GPL-3
-Encoding: UTF-8
-LazyData: true
 URL: https://github.com/aswansyahputra/bandungjuara
-BugReports: https://github.com/aswansyahputra/bandungjuara/issues
+BugReports: 
+    https://github.com/aswansyahputra/bandungjuara/issues
+Depends: 
+    R (>= 2.10)
+Imports: 
+    dplyr,
+    janitor,
+    magrittr,
+    purrr,
+    readr,
+    stringr
 Suggests: 
     tibble
+Encoding: UTF-8
+LazyData: true
 RoxygenNote: 6.1.1
-Imports: 
-    magrittr,
-    dplyr,
-    purrr,
-    janitor,
-    stringr,
-    readr
