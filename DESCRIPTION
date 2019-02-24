@@ -10,8 +10,8 @@ Description: Antarmuka dan aplikasi shiny untuk Open Data Kota Bandung
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Imports: 
 URL: https://github.com/aswansyahputra/bandungjuara
 BugReports: https://github.com/aswansyahputra/bandungjuara/issues
 Suggests: 
     tibble
+RoxygenNote: 6.1.1

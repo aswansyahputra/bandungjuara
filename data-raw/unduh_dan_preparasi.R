@@ -35,3 +35,20 @@ future_map2(
     write_csv(path = here("data-raw", "unduhan", .y)),
   .progress = TRUE
 )
+
+files <- list.files(path = here("data-raw/unduhan"), full.names = TRUE)
+
+datanames <- files %>%
+  basename() %>%
+  str_remove(pattern = ".csv")
+
+future_map2(.x = files,
+            .y = datanames,
+            ~read_csv(.x) %>%
+              save(
+                file = paste0("data/", .y, ".rda"),
+                compress = TRUE,
+                compression_level = 9
+              ),
+            .progress = TRUE
+            )
