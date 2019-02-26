@@ -5,11 +5,10 @@
 
 [![Travis build
 status](https://travis-ci.org/aswansyahputra/bandungjuara.svg?branch=master)](https://travis-ci.org/aswansyahputra/bandungjuara)
-
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 
-Paket `bandungjuara` merupakan antarmuka Open Data Bandung dan (akan)
-berisi aplikasi shiny mengenai Kota Bandung.
+Paket `bandungjuara` merupakan antarmuka Open Data Kota Bandung dan
+(akan) berisi aplikasi shiny mengenai Kota Bandung.
 
 ## Cara Pemasangan
 
@@ -24,6 +23,7 @@ library(bandungjuara)
 library(tibble)
 
 smp <- cari(kata_kunci = "smp")
+#> Berhasil menemukan dataset dengan dengan kata kunci: smp
 data_smp <- impor(.data = smp)
 #> Semua dataset berhasil diunduh!
 data_smp

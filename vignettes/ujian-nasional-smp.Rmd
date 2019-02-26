@@ -1,0 +1,203 @@
+---
+title: "Analisis Data Ujian Nasional SMP"
+author: "Muhammad Aswan Syahputra"
+date: "`r Sys.Date()`"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Vignette Title}
+  %\VignetteEncoding{UTF-8}
+  %\VignetteEngine{knitr::rmarkdown}
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r}
+library(bandungjuara)
+library(tidyverse)
+```
+
+```{r}
+un_smp <- 
+  cari(kata_kunci = "smp") %>% 
+  filter(
+    nama %in% str_subset(nama, pattern = "Ujian Nasional")
+  ) %>% 
+  impor() %>% 
+  bind_rows(.id = "nama_dataset")
+
+glimpse(un_smp)
+```
+
+```{r}
+nilai_kecamatan <- 
+  un_smp %>% 
+  group_by(nama_kecamatan, tahun) %>% 
+  summarise_at(
+    vars(nilai_rerata_bahasa_indonesia:nilai_rerata_ipa),
+    ~mean(.x)
+  ) %>% 
+  ungroup()
+nilai_kecamatan
+```
+
+
+```{r}
+buat_grafik <- function(.data, matpel, tahun_awal, tahun_akhir, judul = "Perubahan Rerata Nilai Ujian Nasional", subjudul = "Nilai Ujian Nasional Tingkat SMP Kota Bandung") {
+  matpel <- 
+    matpel %>% 
+    str_replace_all(pattern = "[:punct:]|[:space:]", replacement = "_") %>% 
+    str_to_lower()
+    
+  .data %>% 
+    select(nama_kecamatan, tahun, contains(matpel)) %>% 
+    filter(tahun %in% c(tahun_awal, tahun_akhir)) %>%
+    spread(key = "tahun", value = str_c("nilai_rerata_", matpel)) %>% 
+    rename("awal" = 2, "akhir" = 3) %>% 
+    mutate(
+      rerata = (awal + akhir)/2,
+      status = if_else(akhir - awal > 0, "Meningkat", "Menurun"),
+      status = factor(status, levels = c("Meningkat", "Menurun"))
+    ) %>% 
+    ggplot() +
+  geom_segment(
+    aes(
+      x = awal,
+      xend = akhir,
+      y = fct_reorder(nama_kecamatan, rerata),
+      yend = fct_reorder(nama_kecamatan, rerata),
+      colour = status
+    ),
+    arrow = arrow(length = unit(2, "mm")),
+    lwd = 1
+  ) +
+  geom_point(
+    aes(
+      x = rerata,
+      y = fct_reorder(nama_kecamatan, rerata)
+    ),
+    colour = "#268AFF",
+    size = 2
+  ) +
+  geom_text(
+    aes(
+      x = awal,
+      y = nama_kecamatan,
+      label = round(awal, 1),
+      hjust = if_else(status == "Meningkat", 1.2, -0.2)
+    ),
+    family = "Lato",
+    color = "gray25",
+    size = 2.5
+  ) +
+  geom_text(
+    aes(
+      x = akhir,
+      y = nama_kecamatan,
+      label = round(akhir, 1),
+      hjust = if_else(status == "Meningkat", -0.2, 1.2)
+    ),
+    family = "Lato",
+    color = "gray25",
+    size = 2.5
+  ) +
+  geom_text(
+    aes(
+      x = rerata,
+      y = nama_kecamatan,
+      label = nama_kecamatan,
+      vjust = -0.6
+    ),
+    family = "Manjari",
+    color = "gray15",
+    size = 3.5
+  ) +
+  labs(
+    title = judul,
+    subtitle = subjudul,
+    caption = "Open Data Kota Bandung (data.bandung.go.id)"
+  ) +
+  scale_colour_manual(values = c("Meningkat" = "#37DC94",  "Menurun" = "#FA5C65"), drop = FALSE) +
+  theme(
+    panel.background = element_rect(fill = "lightgrey"),
+    plot.background = element_rect(fill = "lightgrey"),
+    legend.background = element_rect(fill = "lightgrey"),
+    legend.key = element_blank(),
+    legend.title = element_blank(),
+    legend.position = "bottom",
+    axis.ticks = element_blank(),
+    axis.title = element_blank(),
+    axis.text = element_blank(),
+    panel.grid = element_blank(),
+    plot.title = element_text(
+      family = "Manjari", 
+      size = 19
+    ),
+    plot.subtitle = element_text(
+      family = "Manjari",
+      size = 15
+    ),
+    plot.caption = element_text(
+      family = "Manjari",
+      size = 9
+    ), 
+    legend.text = element_text(
+      family = "Manjari",
+      size = 9
+    )
+  )
+}
+```
+
+
+
+```{r}
+buat_grafik(
+  .data = nilai_kecamatan, 
+  matpel = "matematika", 
+  tahun_awal = 2015,
+  tahun_akhir = 2017,
+  judul = "Perubahan Rerata Nilai Ujian Nasional Mata Pelajaran Matematika",
+  subjudul = "Nilai Ujian Nasional Tingkat SMP Kota Bandung 2015 - 2017"
+)
+```
+
+```{r}
+buat_grafik(
+  .data = nilai_kecamatan, 
+  matpel = "ipa", 
+  tahun_awal = 2015,
+  tahun_akhir = 2017,
+  judul = "Perubahan Rerata Nilai Ujian Nasional Mata Pelajaran IPA",
+  subjudul = "Nilai Ujian Nasional Tingkat SMP Kota Bandung 2015 - 2017"
+)
+```
+
+```{r}
+buat_grafik(
+  .data = nilai_kecamatan, 
+  matpel = "bahasa indonesia", 
+  tahun_awal = 2015,
+  tahun_akhir = 2017,
+  judul = "Perubahan Rerata Nilai Ujian Nasional Mata Pelajaran Bahasa Indonesia",
+  subjudul = "Nilai Ujian Nasional Tingkat SMP Kota Bandung 2015 - 2017"
+)
+```
+
+
+```{r}
+buat_grafik(
+  .data = nilai_kecamatan, 
+  matpel = "bahasa inggris", 
+  tahun_awal = 2015,
+  tahun_akhir = 2017,
+  judul = "Perubahan Rerata Nilai Ujian Nasional Mata Pelajaran Bahasa Inggris",
+  subjudul = "Nilai Ujian Nasional Tingkat SMP Kota Bandung 2015 - 2017"
+)
+```

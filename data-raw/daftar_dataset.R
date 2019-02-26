@@ -1,5 +1,6 @@
 library(ckanr)
 library(tidyverse)
+library(usethis)
 
 url <- "http://data.bandung.go.id"
 
