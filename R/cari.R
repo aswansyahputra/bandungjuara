@@ -35,7 +35,7 @@ cari <- function(kata_kunci = "bandung") {
     stop("kata_kunci belum dimasukan!", call. = FALSE)
   }
 
-  if (nchar(kata_kunci) < 2) {
+  if (any(nchar(kata_kunci) < 2)) {
     stop("kata_kunci harus lebih dari satu huruf!", call. = FALSE)
   }
 
