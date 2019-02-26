@@ -19,7 +19,6 @@ knitr::opts_chunk$set(
 # bandungjuara
 
 [![Travis build status](https://travis-ci.org/aswansyahputra/bandungjuara.svg?branch=master)](https://travis-ci.org/aswansyahputra/bandungjuara)
-
 [![lifecycle](https://img.shields.io/badge/lifecycle-maturing-blue.svg)](https://www.tidyverse.org/lifecycle/#maturing)
 
 Paket `bandungjuara` merupakan antarmuka Open Data Bandung dan (akan) berisi aplikasi shiny mengenai Kota Bandung.

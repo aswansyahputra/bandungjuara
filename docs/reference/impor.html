@@ -134,8 +134,7 @@
     <pre class="examples"><div class='input'>
 <span class='fu'><a href='https://www.rdocumentation.org/packages/base/topics/library'>library</a></span>(<span class='no'>bandungjuara</span>)
 
-<span class='no'>kebakaran</span> <span class='kw'>&lt;-</span> <span class='fu'><a href='cari.html'>cari</a></span>(<span class='kw'>kata_kunci</span> <span class='kw'>=</span> <span class='st'>"kebakaran"</span>)
-<span class='no'>kebakaran</span></div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 9 x 5</span><span>
+<span class='no'>kebakaran</span> <span class='kw'>&lt;-</span> <span class='fu'><a href='cari.html'>cari</a></span>(<span class='kw'>kata_kunci</span> <span class='kw'>=</span> <span class='st'>"kebakaran"</span>)</div><div class='output co'>#&gt; <span class='message'>Berhasil menemukan dataset dengan dengan kata kunci: kebakaran</span></div><div class='input'><span class='no'>kebakaran</span></div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 9 x 5</span><span>
 #&gt;   nama               deskripsi             url               dibuat diperbaharui
 #&gt;   </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>              </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>                 </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>             </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>  </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>       
 #&gt; </span><span style='color: #BCBCBC;'>1</span><span> Data Kebakaran Ko… Data mengenai bencan… http://data.band… 2017-… 2018-08-29  
@@ -147,8 +146,7 @@
 #&gt; </span><span style='color: #BCBCBC;'>7</span><span> Data Serapan Angg… Data ini berisi kolo… http://data.band… 2018-… 2018-04-20  
 #&gt; </span><span style='color: #BCBCBC;'>8</span><span> Data Kebakaran Ko… Data ini berisi kolo… http://data.band… 2019-… 2019-01-10  
 #&gt; </span><span style='color: #BCBCBC;'>9</span><span> Data Serapan Angg… Data ini berisi kolo… http://data.band… 2018-… 2018-04-20  </div><div class='input'>
-<span class='no'>dataset_kebakaran</span> <span class='kw'>&lt;-</span> <span class='fu'>impor</span>(<span class='no'>kebakaran</span>)</div><div class='output co'>#&gt; Data yang tidak berhasil diunduh: 
-#&gt; Data Kebakaran Kota Bandung Tahun 2015</div><div class='input'><span class='no'>dataset_kebakaran</span></div><div class='output co'>#&gt; $`Data Serapan Anggaran Dinas Pencegahan dan Penanggulangan Kebakaran Tahun 2013`
+<span class='no'>dataset_kebakaran</span> <span class='kw'>&lt;-</span> <span class='fu'>impor</span>(<span class='no'>kebakaran</span>)</div><div class='output co'>#&gt; <span class='message'>Data yang tidak berhasil diunduh:</span></div><div class='output co'>#&gt; Data Kebakaran Kota Bandung Tahun 2015</div><div class='input'><span class='no'>dataset_kebakaran</span></div><div class='output co'>#&gt; $`Data Serapan Anggaran Dinas Pencegahan dan Penanggulangan Kebakaran Tahun 2013`
 #&gt; </span><span style='color: #949494;'># A tibble: 12 x 8</span><span>
 #&gt;    skpd    program  kegiatan   anggaran realisasi persentase_sera… tahun catatan
 #&gt;    </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>   </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>    </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>         </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>     </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span>            </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span> </span><span style='color: #949494;font-style: italic;'>&lt;dbl&gt;</span><span> </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>  
@@ -301,8 +299,7 @@
 #&gt; </span><span style='color: #BCBCBC;'>11</span><span> Dinas … Program… Penyusuna…   1.91</span><span style='color: #949494;'>e</span><span>8    1.84</span><span style='color: #949494;'>e</span><span>8             96.3  </span><span style='text-decoration: underline;'>2</span><span>016 -      
 #&gt; </span><span style='color: #BCBCBC;'>12</span><span> Dinas … Program… Sosialisa…   1.11</span><span style='color: #949494;'>e</span><span>8    1.09</span><span style='color: #949494;'>e</span><span>8             97.8  </span><span style='text-decoration: underline;'>2</span><span>016 -      
 #&gt; </div><div class='input'>
-<span class='fu'>impor</span>(<span class='no'>kebakaran</span>[<span class='fl'>1</span>,])</div><div class='output co'>#&gt; Data yang tidak berhasil diunduh: 
-#&gt; Data Kebakaran Kota Bandung Tahun 2015</div><div class='input'>
+<span class='fu'>impor</span>(<span class='no'>kebakaran</span>[<span class='fl'>1</span>,])</div><div class='output co'>#&gt; <span class='message'>Data yang tidak berhasil diunduh:</span></div><div class='output co'>#&gt; Data Kebakaran Kota Bandung Tahun 2015</div><div class='output co'>#&gt; NULL</div><div class='input'>
 </div></span></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">

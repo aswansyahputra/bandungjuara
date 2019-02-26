@@ -54,5 +54,21 @@ cari <- function(kata_kunci = "bandung") {
     ) %>%
     select(-nama_)
   class(res) <- append(class(res), "bdgjwr")
-  return(res)
+
+  if (nrow(res) == 0) {
+    res <- NULL
+    warning(
+      "Tidak berhasil menemukan dataset dengan dengan kata kunci: ",
+      kata_kunci,
+      ". Silakan coba kata kunci lainnnya!",
+      call. = FALSE
+    )
+    return(res)
+  } else {
+    message(
+      "Berhasil menemukan dataset dengan dengan kata kunci: ",
+      kata_kunci
+    )
+    return(res)
+  }
 }

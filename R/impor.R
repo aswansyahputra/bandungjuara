@@ -28,11 +28,15 @@
 impor <- function(.data){
 
   if (missing(.data)) {
-    stop("argumen `.data` belum dilengkapi!", call. = FALSE)
+    stop("Argumen `.data` belum dilengkapi!", call. = FALSE)
+  }
+
+    if (is.null(.data)) {
+    stop("Hasil pencarian dari fungsi `cari()` tidak dapat digunakan. Silakan gunakan kata kunci lain!", call. = FALSE)
   }
 
   if (!any(class(.data) == "bdgjwr")) {
-    stop("argumen `.data` bukan merupakan keluaran dari fungsi cari()!", call. = FALSE)
+    stop("Argumen `.data` bukan merupakan keluaran dari fungsi cari()!", call. = FALSE)
   }
 
   out <- .data %>%
@@ -43,20 +47,22 @@ impor <- function(.data){
     transpose()
 
   if (sum(map_lgl(out$error, ~!is.null(.x))) == 0) {
-    cat("Semua dataset berhasil diunduh!")
+    message("Semua dataset berhasil diunduh!")
   } else {
-    cat("Data yang tidak berhasil diunduh:", "\n")
+    message("Data yang tidak berhasil diunduh:", "\n")
     names(out$error)[map_lgl(out$error, ~!is.null(.x))] %>%
       cat(sep = "\n")
   }
 
   res <- out$result[map_lgl(out$result, ~!is.null(.x))]
-  if (length(res) > 1) {
-    invisible(res)
-  } else if (length(res) == 1) {
-    return(res[[1]])
-  } else if (length(res) == 0) {
+
+  if (length(res) == 0) {
     res <- NULL
-    invisible(res)
+  } else if (length(res) == 1) {
+    res <- res[[1]]
+  } else if (length(res) > 1) {
+    res <- res
   }
+
+  return(res)
 }
