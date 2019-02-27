@@ -1,6 +1,6 @@
 #' paket \code{bandungjuara}
 #'
-#' Antarmuka untuk Open Data Bandung
+#' Antarmuka untuk Open Data Kota Bandung
 #'
 #' Silakan baca dokumentasi di
 #' \href{https://github.com/aswansyahputra/bandungjuara#readme}{GitHub}

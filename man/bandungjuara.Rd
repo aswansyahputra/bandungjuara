@@ -6,7 +6,7 @@
 \alias{bandungjuara-package}
 \title{paket \code{bandungjuara}}
 \description{
-Antarmuka untuk Open Data Bandung
+Antarmuka untuk Open Data Kota Bandung
 }
 \details{
 Silakan baca dokumentasi di
