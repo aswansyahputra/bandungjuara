@@ -29,7 +29,7 @@
 #' @export
 
 
-cari <- function(kata_kunci = "bandung") {
+cari <- function(kata_kunci) {
 
   if (missing(kata_kunci)) {
     stop("kata_kunci belum dimasukan!", call. = FALSE)

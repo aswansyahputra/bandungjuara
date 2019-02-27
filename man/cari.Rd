@@ -7,7 +7,7 @@
 Dataset bersumber dari Open Data Kota Bandung \url{http://data.bandung.go.id}.
 }
 \usage{
-cari(kata_kunci = "bandung")
+cari(kata_kunci)
 }
 \arguments{
 \item{kata_kunci}{kata kunci dataset yang ingin dicari, case insensitive}
