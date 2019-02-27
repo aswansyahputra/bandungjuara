@@ -9,6 +9,6 @@
 #' @name bandungjuara
 "_PACKAGE"
 
-if(getRversion() >= "2.15.1") utils::globalVariables(c("nama", "nama_"))
+if (getRversion() >= "2.15.1") utils::globalVariables(c("nama", "nama_", "dibuat", "diperbaharui"))
 
 

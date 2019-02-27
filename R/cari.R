@@ -1,6 +1,6 @@
 #' Cari dataset
 #'
-#' Fungsi untuk mencari dataset yang tersedia di Open Data Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.
+#' Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.
 #'
 #' @param kata_kunci kata kunci dataset yang ingin dicari, case insensitive
 #'
@@ -53,6 +53,7 @@ cari <- function(kata_kunci = "bandung") {
       nama_ %in% kueri
     ) %>%
     select(-nama_)
+
   class(res) <- append(class(res), "bdgjwr")
 
   if (nrow(res) == 0) {
@@ -66,7 +67,9 @@ cari <- function(kata_kunci = "bandung") {
     return(res)
   } else {
     message(
-      "Berhasil menemukan dataset dengan dengan kata kunci: ",
+      "Berhasil menemukan ",
+      nrow(res),
+      " dataset dengan dengan kata kunci: ",
       kata_kunci
     )
     return(res)

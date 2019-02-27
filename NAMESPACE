@@ -3,6 +3,7 @@
 export("%>%")
 export(cari)
 export(impor)
+export(terkini)
 import(dplyr)
 import(purrr)
 import(readr)

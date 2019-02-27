@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Cari dataset — cari • bandungjuara</title>
+<title>Cari dataset terkini — terkini • bandungjuara</title>
 
 <!-- jquery -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
@@ -30,9 +30,9 @@
 
 
 
-<meta property="og:title" content="Cari dataset — cari" />
+<meta property="og:title" content="Cari dataset terkini — terkini" />
 
-<meta property="og:description" content="Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id." />
+<meta property="og:description" content="Fungsi untuk mencari dataset terkini yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -99,25 +99,29 @@
 <div class="row">
   <div class="col-md-9 contents">
     <div class="page-header">
-    <h1>Cari dataset</h1>
-    <small class="dont-index">Source: <a href='https://github.com/aswansyahputra/bandungjuara/blob/master/R/cari.R'><code>R/cari.R</code></a></small>
-    <div class="hidden name"><code>cari.Rd</code></div>
+    <h1>Cari dataset terkini</h1>
+    <small class="dont-index">Source: <a href='https://github.com/aswansyahputra/bandungjuara/blob/master/R/terkini.R'><code>R/terkini.R</code></a></small>
+    <div class="hidden name"><code>terkini.Rd</code></div>
     </div>
 
     <div class="ref-description">
     
-    <p>Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.</p>
+    <p>Fungsi untuk mencari dataset terkini yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.</p>
     
     </div>
 
-    <pre class="usage"><span class='fu'>cari</span>(<span class='kw'>kata_kunci</span> <span class='kw'>=</span> <span class='st'>"bandung"</span>)</pre>
+    <pre class="usage"><span class='fu'>terkini</span>(<span class='kw'>n</span> <span class='kw'>=</span> <span class='fl'>5</span>, <span class='kw'>berdasarkan</span> <span class='kw'>=</span> <span class='fu'><a href='https://www.rdocumentation.org/packages/base/topics/c'>c</a></span>(<span class='st'>"dibuat"</span>, <span class='st'>"diperbaharui"</span>))</pre>
     
     <h2 class="hasAnchor" id="arguments"><a class="anchor" href="#arguments"></a>Arguments</h2>
     <table class="ref-arguments">
     <colgroup><col class="name" /><col class="desc" /></colgroup>
     <tr>
-      <th>kata_kunci</th>
-      <td><p>kata kunci dataset yang ingin dicari, case insensitive</p></td>
+      <th>n</th>
+      <td><p>jumlah dataset yang diinginkan</p></td>
+    </tr>
+    <tr>
+      <th>berdasarkan</th>
+      <td><p>dataset terkini berdasarkan tanggal dibuat atau tanggal diperbaharui? Opsinya adalah 'dibuat' dan 'diperbaharui'</p></td>
     </tr>
     </table>
     
@@ -141,18 +145,20 @@
     <pre class="examples"><div class='input'>
 <span class='fu'><a href='https://www.rdocumentation.org/packages/base/topics/library'>library</a></span>(<span class='no'>bandungjuara</span>)
 
-<span class='no'>kebakaran</span> <span class='kw'>&lt;-</span> <span class='fu'>cari</span>(<span class='kw'>kata_kunci</span> <span class='kw'>=</span> <span class='st'>"kebakaran"</span>)</div><div class='output co'>#&gt; <span class='message'>Berhasil menemukan 9 dataset dengan dengan kata kunci: kebakaran</span></div><div class='input'><span class='no'>kebakaran</span></div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 9 x 5</span><span>
-#&gt;   nama               deskripsi             url               dibuat diperbaharui
-#&gt;   </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>              </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>                 </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>             </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>  </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>       
-#&gt; </span><span style='color: #BCBCBC;'>1</span><span> Data Kebakaran Ko… Data mengenai bencan… http://data.band… 2017-… 2018-08-29  
-#&gt; </span><span style='color: #BCBCBC;'>2</span><span> Data Serapan Angg… Data ini berisi kolo… http://data.band… 2018-… 2018-04-20  
-#&gt; </span><span style='color: #BCBCBC;'>3</span><span> Data Serapan Angg… Data ini berisi kolo… http://data.band… 2018-… 2018-04-13  
-#&gt; </span><span style='color: #BCBCBC;'>4</span><span> Data Kebakaran Ko… Data mengenai bencan… http://data.band… 2017-… 2018-01-04  
-#&gt; </span><span style='color: #BCBCBC;'>5</span><span> Data Serapan Angg… Data ini berisi kolo… http://data.band… 2018-… 2018-04-20  
-#&gt; </span><span style='color: #BCBCBC;'>6</span><span> Data Kebakaran Ko… Data ini berisi kolo… http://data.band… 2018-… 2018-01-15  
-#&gt; </span><span style='color: #BCBCBC;'>7</span><span> Data Serapan Angg… Data ini berisi kolo… http://data.band… 2018-… 2018-04-20  
-#&gt; </span><span style='color: #BCBCBC;'>8</span><span> Data Kebakaran Ko… Data ini berisi kolo… http://data.band… 2019-… 2019-01-10  
-#&gt; </span><span style='color: #BCBCBC;'>9</span><span> Data Serapan Angg… Data ini berisi kolo… http://data.band… 2018-… 2018-04-20  </div><div class='input'>
+<span class='no'>dataset_terkini</span> <span class='kw'>&lt;-</span> <span class='fu'>terkini</span>(<span class='kw'>n</span> <span class='kw'>=</span> <span class='fl'>10</span>)
+<span class='no'>dataset_terkini</span></div><div class='output co'>#&gt; <span style='color: #949494;'># A tibble: 10 x 5</span><span>
+#&gt;    nama            deskripsi              url                dibuat diperbaharui
+#&gt;    </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>           </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>                  </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>              </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>  </span><span style='color: #949494;font-style: italic;'>&lt;chr&gt;</span><span>       
+#&gt; </span><span style='color: #BCBCBC;'> 1</span><span> Data Bina Kelu… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 2</span><span> Data Pembinaan… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 3</span><span> Data Bina Kelu… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 4</span><span> Data Pelayanan… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 5</span><span> Data Pelayanan… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 6</span><span> Data Bina Kelu… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 7</span><span> Data Pasien DB… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 8</span><span> Data Bina Kelu… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'> 9</span><span> Data Bina Kelu… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  
+#&gt; </span><span style='color: #BCBCBC;'>10</span><span> Data Pasien DB… Data ini berisi kolom… http://data.bandu… 2019-… 2019-02-23  </div><div class='input'>
 </div></span></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
