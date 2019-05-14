@@ -10,6 +10,7 @@
 #'
 #' @import readr dplyr purrr
 #' @importFrom janitor clean_names
+#' @importFrom tibble deframe
 #'
 #' @examples
 #'
@@ -39,11 +40,12 @@ impor <- function(.data){
     stop("Argumen `.data` bukan merupakan keluaran dari fungsi cari()!", call. = FALSE)
   }
 
-  out <- .data %>%
-    pull(url) %>%
-    map(safely(~suppressMessages(read_csv(.x)) %>%
+  out <-
+    .data %>%
+    select(nama, url) %>%
+    tibble::deframe() %>%
+    map(safely(~suppressWarnings(suppressMessages(read_csv(.x))) %>%
                  janitor::clean_names())) %>%
-    `names<-`(.data[["nama"]]) %>%
     transpose()
 
   if (sum(map_lgl(out$error, ~!is.null(.x))) == 0) {
@@ -54,7 +56,11 @@ impor <- function(.data){
       cat(sep = "\n")
   }
 
-  res <- out$result[map_lgl(out$result, ~!is.null(.x))]
+  res <-
+    out %>%
+    purrr::pluck("result") %>%
+    compact() %>%
+    map(~select_if(.x, ~mean(!is.na(.x)) > 0.9))
 
   if (length(res) == 0) {
     res <- NULL

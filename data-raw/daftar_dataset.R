@@ -11,7 +11,7 @@ daftar_dataset <-
   `[[`("results") %>%
   as_tibble() %>%
   filter(format == "CSV") %>%
-  filter(!str_detect(url, pattern = "git")) %>%
+  # filter(!str_detect(url, pattern = "git")) %>%
   select(name, description, url, created, last_modified) %>%
   rename(
     nama = name,
@@ -21,6 +21,8 @@ daftar_dataset <-
   ) %>%
   mutate_all(~str_squish(.x)) %>%
   mutate_at(vars(dibuat, diperbaharui), ~ str_extract(.x, pattern = "\\d{2}-\\d{2}-\\d{2}")) %>%
-  mutate_at(vars(dibuat, diperbaharui), ~ str_c("20", .x))
+  mutate_at(vars(dibuat, diperbaharui), ~ str_c("20", .x)) %>%
+  mutate_at(vars(dibuat:diperbaharui), ~parse_date(.x)) %>%
+  arrange(desc(diperbaharui), desc(dibuat))
 
 use_data(daftar_dataset, internal = TRUE, overwrite = TRUE)

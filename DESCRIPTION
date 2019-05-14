@@ -20,9 +20,9 @@ Imports:
     magrittr,
     purrr,
     readr,
-    stringr
+    stringr,
+    tibble
 Suggests: 
-    tibble,
     testthat,
     covr
 Encoding: UTF-8
