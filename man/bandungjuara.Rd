@@ -21,6 +21,6 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: Muhammad Aswan Syahputra \email{aswansyahputra@sensolution.id}
+\strong{Maintainer}: Muhammad Aswan Syahputra \email{muhammadaswansyahputra@gmail.com}
 
 }

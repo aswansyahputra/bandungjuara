@@ -23,7 +23,7 @@ dataframe dengan 5 kolom, yaitu:
 }
 }
 \description{
-Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.
+Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung.
 }
 \examples{
 

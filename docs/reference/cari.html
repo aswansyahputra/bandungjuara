@@ -32,7 +32,7 @@
 
 <meta property="og:title" content="Cari dataset — cari" />
 
-<meta property="og:description" content="Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id." />
+<meta property="og:description" content="Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung." />
 <meta name="twitter:card" content="summary" />
 
 
@@ -63,7 +63,7 @@
       </button>
       <span class="navbar-brand">
         <a class="navbar-link" href="../index.html">bandungjuara</a>
-        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.1.2</span>
+        <span class="version label label-default" data-toggle="tooltip" data-placement="bottom" title="Released version">0.1.3</span>
       </span>
     </div>
 
@@ -106,7 +106,7 @@
 
     <div class="ref-description">
     
-    <p>Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.</p>
+    <p>Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung.</p>
     
     </div>
 
@@ -141,20 +141,20 @@
     <pre class="examples"><div class='input'>
 <span class='fu'><a href='https://www.rdocumentation.org/packages/base/topics/library'>library</a></span>(<span class='no'>bandungjuara</span>)
 
-<span class='no'>kebakaran</span> <span class='kw'>&lt;-</span> <span class='fu'>cari</span>(<span class='kw'>kata_kunci</span> <span class='kw'>=</span> <span class='st'>"kebakaran"</span>)</div><div class='output co'>#&gt; <span class='message'>Berhasil menemukan 23 dataset dengan dengan kata kunci: kebakaran</span></div><div class='input'><span class='no'>kebakaran</span></div><div class='output co'>#&gt; <span style='color: #555555;'># A tibble: 23 x 5</span><span>
+<span class='no'>kebakaran</span> <span class='kw'>&lt;-</span> <span class='fu'>cari</span>(<span class='kw'>kata_kunci</span> <span class='kw'>=</span> <span class='st'>"kebakaran"</span>)</div><div class='output co'>#&gt; <span class='message'>Berhasil menemukan 24 dataset dengan dengan kata kunci: kebakaran</span></div><div class='input'><span class='no'>kebakaran</span></div><div class='output co'>#&gt; <span style='color: #555555;'># A tibble: 24 x 5</span><span>
 #&gt;    nama             deskripsi            url             dibuat     diperbaharui
 #&gt;    </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>            </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>                </span><span style='color: #555555;font-style: italic;'>&lt;chr&gt;</span><span>           </span><span style='color: #555555;font-style: italic;'>&lt;date&gt;</span><span>     </span><span style='color: #555555;font-style: italic;'>&lt;date&gt;</span><span>      
-#&gt; </span><span style='color: #555555;'> 1</span><span> Data Kebakaran … Data ini berisi kol… http://data.ba… 2019-01-10 2019-01-10  
-#&gt; </span><span style='color: #555555;'> 2</span><span> Data Kebakaran … Data mengenai benca… http://data.ba… 2017-07-25 2018-08-29  
-#&gt; </span><span style='color: #555555;'> 3</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2018-04-20 2018-04-20  
+#&gt; </span><span style='color: #555555;'> 1</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2019-05-24 2019-05-24  
+#&gt; </span><span style='color: #555555;'> 2</span><span> Data Kebakaran … Data ini berisi kol… http://data.ba… 2019-01-10 2019-01-10  
+#&gt; </span><span style='color: #555555;'> 3</span><span> Data Kebakaran … Data mengenai benca… http://data.ba… 2017-07-25 2018-08-29  
 #&gt; </span><span style='color: #555555;'> 4</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2018-04-20 2018-04-20  
 #&gt; </span><span style='color: #555555;'> 5</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2018-04-20 2018-04-20  
 #&gt; </span><span style='color: #555555;'> 6</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2018-04-20 2018-04-20  
-#&gt; </span><span style='color: #555555;'> 7</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2018-04-13 2018-04-13  
-#&gt; </span><span style='color: #555555;'> 8</span><span> Data Kebakaran … Data ini berisi kol… http://data.ba… 2018-01-15 2018-01-15  
-#&gt; </span><span style='color: #555555;'> 9</span><span> Data Kebakaran … Data mengenai benca… http://data.ba… 2017-07-25 2018-01-04  
-#&gt; </span><span style='color: #555555;'>10</span><span> Data Rekrutmen … Dataset tentang Dat… https://git.ba… 2017-07-25 </span><span style='color: #BB0000;'>NA</span><span>          
-#&gt; </span><span style='color: #555555;'># … with 13 more rows</span><span></div><div class='input'>
+#&gt; </span><span style='color: #555555;'> 7</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2018-04-20 2018-04-20  
+#&gt; </span><span style='color: #555555;'> 8</span><span> Data Serapan An… Data ini berisi kol… http://data.ba… 2018-04-13 2018-04-13  
+#&gt; </span><span style='color: #555555;'> 9</span><span> Data Kebakaran … Data ini berisi kol… http://data.ba… 2018-01-15 2018-01-15  
+#&gt; </span><span style='color: #555555;'>10</span><span> Data Kebakaran … Data mengenai benca… http://data.ba… 2017-07-25 2018-01-04  
+#&gt; </span><span style='color: #555555;'># … with 14 more rows</span><span></div><div class='input'>
 </div></span></pre>
   </div>
   <div class="col-md-3 hidden-xs hidden-sm" id="sidebar">
