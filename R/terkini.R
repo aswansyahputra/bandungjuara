@@ -1,6 +1,6 @@
 #' Cari dataset terkini
 #'
-#' Fungsi untuk mencari dataset terkini yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.
+#' Fungsi untuk mencari dataset terkini yang tersedia di Open Data Kota Bandung.
 #'
 #' @param n jumlah dataset yang diinginkan
 #' @param berdasarkan dataset terkini berdasarkan tanggal dibuat atau tanggal diperbaharui? Opsinya adalah 'dibuat' dan 'diperbaharui'
@@ -16,9 +16,7 @@
 #'
 #' @source Dataset bersumber dari Open Data Kota Bandung \url{http://data.bandung.go.id}.
 #'
-#' @import dplyr
-#'
-#' @export
+#' @importFrom dplyr arrange desc slice
 #'
 #' @examples
 #'
@@ -28,15 +26,12 @@
 #' dataset_terkini
 #'
 #' @export
-
 terkini <- function(n = 5, berdasarkan = c("dibuat", "diperbaharui")) {
   if (n < 1 ) {
     stop("n harus lebih dari atau sama dengan 1!", call. = FALSE)
   }
-
-  if (!any(berdasarkan %in% c("dibuat", "diperbaharui"))) {
-    stop("Data terkini harus berdasarkan tanggal 'dibuat' atau tanggal 'diperbaharui'!", call. = FALSE)
-  }
+  
+  berdasarkan <- match.arg(berdasarkan)
 
   res <- daftar_dataset %>%
     arrange(

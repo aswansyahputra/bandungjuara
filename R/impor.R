@@ -8,7 +8,9 @@
 #'
 #' @source Dataset bersumber dari Open Data Kota Bandung \url{http://data.bandung.go.id}.
 #'
-#' @import readr dplyr purrr
+#' @importFrom readr read_csv
+#' @importFrom purrr map map_lgl safely transpose compact pluck
+#' @importFrom dplyr select select_if
 #' @importFrom janitor clean_names
 #' @importFrom tibble deframe
 #'
@@ -25,7 +27,6 @@
 #' impor(kebakaran[1,])
 #'
 #' @export
-
 impor <- function(.data){
 
   if (missing(.data)) {

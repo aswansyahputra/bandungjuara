@@ -26,3 +26,4 @@ daftar_dataset <-
   arrange(desc(diperbaharui), desc(dibuat))
 
 use_data(daftar_dataset, internal = TRUE, overwrite = TRUE)
+

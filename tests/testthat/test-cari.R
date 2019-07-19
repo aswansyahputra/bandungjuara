@@ -4,5 +4,5 @@ test_that("cari berfungsi", {
   expect_error(cari())
   expect_error(cari(kata_kunci = "a"))
   expect_warning(cari(kata_kunci = "sepeda"))
-  expect_equal(nrow(cari(kata_kunci = "kebakaran")), 23)
+  expect_is(cari(kata_kunci = "kebakaran"), "data.frame")
 })

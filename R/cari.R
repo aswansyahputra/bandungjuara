@@ -1,6 +1,6 @@
 #' Cari dataset
 #'
-#' Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung. Saat ini URL dataset yang ditampilkan hanya yang berasal dari peladen data.bandung.go.id.
+#' Fungsi untuk mencari dataset yang tersedia di Open Data Kota Bandung.
 #'
 #' @param kata_kunci kata kunci dataset yang ingin dicari, case insensitive
 #'
@@ -15,9 +15,8 @@
 #'
 #' @source Dataset bersumber dari Open Data Kota Bandung \url{http://data.bandung.go.id}.
 #'
-#' @import dplyr stringr
-#'
-#' @export
+#' @importFrom dplyr pull mutate filter select
+#' @importFrom stringr str_to_lower str_subset
 #'
 #' @examples
 #'
@@ -27,8 +26,6 @@
 #' kebakaran
 #'
 #' @export
-
-
 cari <- function(kata_kunci) {
 
   if (missing(kata_kunci)) {
